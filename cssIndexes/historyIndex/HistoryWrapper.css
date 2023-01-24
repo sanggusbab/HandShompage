@@ -1,0 +1,67 @@
+.rows {
+    float: left;
+}
+
+.HistoryWrapper p {
+    text-align: center;
+}
+
+@media screen and (max-width:860px) {
+    .HistoryWrapper {
+        float: left;
+        width: 90%;
+        padding: 5%;
+        height: 300px;
+    }
+
+    .HistoryWrapper img {
+        margin: 0 30%;
+        width: 40%;
+        height: 100px;
+    }
+}
+
+@media screen and (min-width:860px) and (max-width:1280px) {
+    .HistoryWrapper {
+        float: left;
+        width: 42%;
+        padding: 4%;
+        height: 300px;
+    }
+
+    .HistoryWrapper img {
+        margin: 0 30%;
+        width: 40%;
+        height: 100px;
+    }
+}
+
+@media screen and (min-width:1281px) and (max-width:1700px) {
+    .HistoryWrapper {
+        float: left;
+        width: 27%;
+        height: 300px;
+        padding: 3%;
+    }
+
+    .HistoryWrapper img {
+        margin: 0 30%;
+        width: 40%;
+        height: 100px;
+    }
+}
+
+@media screen and (min-width:1700px) {
+    .HistoryWrapper {
+        float: left;
+        width: 21%;
+        height: 300px;
+        padding: 2%;
+    }
+
+    .HistoryWrapper img {
+        margin: 0 30%;
+        width: 40%;
+        height: 100px;
+    }
+}

@@ -1,0 +1,402 @@
+div[class="sidebar"] {
+    width: 280px;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: -260px;
+    transition: all .50s;
+    z-index: 4;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+}
+
+input[id="menuicon"] {
+    display: none;
+}
+
+input[id="menuicon"]+label {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    left: -60px;
+    top: 110px;
+    transition: 0.50s;
+    cursor: pointer;
+    z-index: 5;
+}
+
+input[id="menuicon"]+label span {
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    border-radius: 30px;
+    background: #000;
+    transition: all .50s;
+}
+
+input[id="menuicon"]+label span:nth-child(1) {
+    top: 0;
+}
+
+input[id="menuicon"]+label span:nth-child(2) {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+input[id="menuicon"]+label span:nth-child(3) {
+    bottom: 0;
+}
+
+input[id="menuicon"]+label+label {
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    left: 20px;
+    top: 50%;
+    transition: .50s;
+    cursor: pointer;
+}
+
+input[id="menuicon"]:hover+label {
+    cursor: pointer;
+}
+
+input[id="menuicon"]:checked:hover+label span {
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
+}
+
+input[id="menuicon"]:checked+label {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    left: 200px;
+    top: 110px;
+    transition: .50s;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0);
+}
+
+input[id="menuicon"]:checked+label span {
+    width: 100%;
+    height: 5px;
+    border-radius: 30px;
+    background: #fff;
+    transition: all .50s;
+}
+
+input[id="menuicon"]:checked+label span:nth-child(1) {
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+}
+
+input[id="menuicon"]:checked+label span:nth-child(2) {
+    opacity: 0;
+}
+
+input[id="menuicon"]:checked+label span:nth-child(3) {
+    bottom: 50%;
+    transform: translateY(50%) rotate(-45deg);
+}
+
+input[id="menuicon"]:checked+label+label {
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    left: 280px;
+    top: 50%;
+    transition: .50s;
+    cursor: pointer;
+    transform: rotate(180deg);
+}
+
+input[id="menuicon"]:checked+label+label+div {
+    left: 0;
+    transition: all .50s;
+}
+
+.sidebarLogo {
+    position: absolute;
+    margin: 28px 56px;
+    height: 70px;
+    width: auto;
+}
+
+input[id="sideBarmenuicon"] {
+    display: none;
+}
+
+input[id="sideBarmenuicon"]+label {
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    height: 30px;
+    width: 40px;
+    transition: 0.35s;
+}
+
+input[id="sideBarmenuicon"]+label span {
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    border-radius: 50px;
+    background: #fff;
+    transition: all .50s;
+}
+
+input[id="sideBarmenuicon"]+label span:nth-child(1) {
+    top: 0;
+}
+
+input[id="sideBarmenuicon"]+label span:nth-child(2) {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+input[id="sideBarmenuicon"]+label span:nth-child(3) {
+    bottom: 0;
+}
+
+input[id="sideBarmenuicon"]:hover+label {
+    cursor: pointer;
+    text-shadow: 0 0 18px rgba(255, 255, 255, 1);
+}
+
+input[id="sideBarmenuicon"]:hover+label span {
+    background: rgba(255, 255, 255, 0.6);
+    text-shadow: 0 0 25px rgba(255, 255, 255, 1);
+}
+
+input[id="sideBarmenuicon"]:checked+label span:nth-child(1) {
+    top: 0;
+    transform: rotate(60deg);
+    width: 70%;
+    left: 30%;
+}
+
+input[id="sideBarmenuicon"]:checked+label span:nth-child(2) {
+    transform: rotate(90deg) translateX(-10%);
+}
+
+input[id="sideBarmenuicon"]:checked+label span:nth-child(3) {
+    top: 0;
+    transform: rotate(-60deg);
+    width: 70%;
+    right: 30%;
+}
+
+.sidebarContainer {
+    position: absolute;
+    top: 140px;
+    left: 0;
+    height: 600px;
+    width: calc(100% - 90px);
+    padding: 30px 30px 0 60px;
+    overflow-y: visible;
+    color: #fff;
+}
+
+.hoverlight:hover {
+    opacity: 0.7;
+    text-shadow: 0 0 20px #888;
+    transition: 0.35s;
+    text-decoration: underline;
+}
+
+.heightFixedBox {
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+}
+
+.heightChangingBox {
+    margin-bottom: 35px;
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+}
+.heightChangingBox a{
+    text-decoration: none;
+}
+.heightChangingBox a span {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 0 0 8px #fff;
+}
+.depthList {
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+    display: none;
+}
+
+.depthList li {
+    margin: 13pt 0;
+}
+
+.depthList li a {
+    margin-left: 20pt;
+    font-size: 15px;
+    color: #BBB;
+    text-decoration: none;
+    text-shadow: 0 0 16px #BBB;
+}
+#depthList01 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+    display: none;
+}
+
+#depthList01 li {
+    margin: 13pt 0;
+}
+
+#depthList01 li a {
+    margin-left: 20pt;
+    font-size: 15px;
+    color: #BBB;
+    text-decoration: none;
+    text-shadow: 0 0 16px #BBB;
+}
+#depthList02 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+    display: none;
+}
+
+#depthList02 li {
+    margin: 13pt 0;
+}
+
+#depthList02 li a {
+    margin-left: 20pt;
+    font-size: 15px;
+    color: #BBB;
+    text-decoration: none;
+    text-shadow: 0 0 16px #BBB;
+}
+#depthList03 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+    display: none;
+}
+
+#depthList03 li {
+    margin: 13pt 0;
+}
+
+#depthList03 li a {
+    margin-left: 20pt;
+    font-size: 15px;
+    color: #BBB;
+    text-decoration: none;
+    text-shadow: 0 0 16px #BBB;
+}
+#depthList04 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+#depthList04 li {
+    margin: 13pt 0;
+}
+
+#depthList04 li a {
+    margin-left: 20pt;
+    font-size: 15px;
+    color: #BBB;
+    text-decoration: none;
+    text-shadow: 0 0 16px #BBB;
+}
+@media screen and (max-height: 960px) {
+    .sidebarContainer {
+        height: 430px;
+    }
+
+    .heightChangingBox {
+        position: relative;
+        height: auto;
+        width: 100%;
+        float: left;
+        margin-bottom: 12px;
+    }
+
+    .heightFixedBox {
+        position: relative;
+        height: auto;
+        width: 100%;
+        float: left;
+    }
+
+    #depthList01 li {
+        margin: 9pt 0;
+    }
+
+    #depthList01 {
+        position: relative;
+        height: auto;
+        width: 100%;
+        float: left;
+    }
+
+    #depthList01 li a {
+        font-size: 13px;
+    }
+
+    #depthList02 li {
+        margin: 9pt 0;
+    }
+
+    #depthList02 {
+        position: relative;
+        height: auto;
+        width: 100%;
+        float: left;
+    }
+
+    #depthList02 li a {
+        font-size: 13px;
+    }
+
+    #depthList03 li {
+        margin: 9pt 0;
+    }
+
+    #depthList03 {
+        position: relative;
+        height: auto;
+        width: 100%;
+        float: left;
+    }
+
+    #depthList03 li a {
+        font-size: 13px;
+    }
+
+    #depthList04 li {
+        margin: 9pt 0;
+    }
+
+    #depthList04 {
+        position: relative;
+        height: auto;
+        width: 100%;
+        float: left;
+    }
+
+    #depthList04 li a {
+        font-size: 13px;
+    }
+}

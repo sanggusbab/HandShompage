@@ -1,0 +1,231 @@
+.headerContainer {
+    top: 0;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+}
+
+.helloProfile {
+    display: inline-block;
+    float: right;
+    margin: 15px;
+    width: auto;
+    height: 50px;
+}
+
+.profileButton {
+    padding: 0;
+    margin: 7px;
+    display: inline-block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    background: rgba(255, 255, 255, 0);
+    border: none;
+    border-radius: 18px;
+    transition: 0.35s;
+}
+
+.profileButton img {
+    width: 36px;
+    height: 36px;
+}
+
+.profileButton:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    box-shadow: 0 0 18px rgba(255, 255, 255, 0.5);
+}
+
+.profileButton:focus {
+    outline: 0;
+}
+
+.loginButton {
+    display: inline-block;
+    margin: 11px 15px;
+    float: right;
+    width: 90px;
+    top: 25px;
+    height: 28px;
+    background-color: rgba(139, 28, 33, 1);
+    color: white;
+    box-shadow: 0 0 18px rgba(139, 28, 33, 0.4);
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    transition: 0.35s;
+}
+
+.loginButton:focus {
+    outline: 0;
+}
+
+.loginButton:hover {
+    background-color: rgba(139, 28, 33, 0.6);
+    cursor: pointer;
+    box-shadow: 0 0 12px rgba(169, 48, 53, 0.8);
+}
+
+.helloProfileText {
+    display: inline-block;
+    margin: 10px 15px;
+    float: right;
+    top: 25px;
+    width: auto;
+    height: 30px;
+    color: rgb(200, 200, 200);
+}
+
+.helloProfileText p {
+    font-size: 10px;
+}
+
+input[id="buttonLogoCheckbox"] {
+    display: none;
+}
+
+input[id="buttonLogoCheckbox"]+label {
+    opacity: 0.7;
+    text-align: center;
+    background-color: rgba(139, 28, 33, 1);
+    color: white;
+    box-shadow: 0 0 18px rgba(139, 28, 33, 0.4);
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    transition: 1s;
+    height: 25px;
+    position: absolute;
+    float: right;
+    width: 120px;
+}
+
+input[id="buttonLogoCheckbox"]+label span {
+    color: white;
+    font-size: 12px;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+}
+
+input[id="buttonLogoCheckbox"]+label p {
+    height: 8px;
+}
+
+input[id="buttonLogoCheckbox"]+label:hover {
+    background-color: rgba(139, 28, 33, 0.6);
+    cursor: pointer;
+    box-shadow: 0 0 12px rgba(169, 48, 53, 0.8);
+}
+
+input[id="buttonLogoCheckbox"]:checked+label+.mainCenterLogo {
+    opacity: 0;
+    pointer-events: none;
+}
+
+input[id="buttonLogoCheckbox"]:checked+label {
+    right: -25px;
+    top: calc(50% + 128px);
+    transform: rotate(90deg);
+}
+
+.mainCenterLogo {
+    transition: all 1s;
+}
+@media screen and (min-width:0) and (max-width:500px) {
+    .helloProfileText {
+        display: none;
+    }
+}
+@media screen and (min-width:0) and (max-width:720px) {
+    input[id="buttonLogoCheckbox"]+label {
+        top: calc(15% + 50px);
+        right: 20%;
+    }
+
+    .mainCenterLogo {
+        position: absolute;
+        top: calc(15% + 100px);
+        left: 20%;
+        width: 60%;
+        height: auto;
+        right: 25%;
+    }
+
+    .mainCenterLogo a img {
+        top: 200px;
+        height: auto;
+        width: 100%;
+        transition: all 1s;
+    }
+}
+
+@media screen and (min-width:721px)and (max-width:1280px) {
+    input[id="buttonLogoCheckbox"]+label {
+        top: calc(25% + 20px);
+        right: 30%;
+    }
+
+    .mainCenterLogo {
+        position: absolute;
+        top: calc(25% + 60px);
+        left: 30%;
+        width: 50%;
+        height: auto;
+        right: 25%;
+    }
+
+    .mainCenterLogo a img {
+        top: 400px;
+        height: 130px;
+        width: auto;
+        transition: all 1s;
+    }
+}
+
+@media screen and (min-width:1281px) and (max-width:1920px) {
+    input[id="buttonLogoCheckbox"]+label {
+        top: calc(30% + 50px);
+        right: 30%;
+    }
+
+    .mainCenterLogo {
+        position: absolute;
+        top: calc(30% + 100px);
+        left: 30%;
+        width: 50%;
+        height: auto;
+        right: 25%;
+    }
+
+    .mainCenterLogo a img {
+        top: 400px;
+        height: 190px;
+        width: auto;
+        transition: all 1s;
+    }
+}
+
+@media screen and (min-width:1921px) {
+    input[id="buttonLogoCheckbox"]+label {
+        top: calc(30% + 50px);
+        right: 35%;
+    }
+
+    .mainCenterLogo {
+        position: absolute;
+        top: calc(30% + 100px);
+        left: 35%;
+        width: 50%;
+        height: auto;
+        right: 25%;
+    }
+
+    .mainCenterLogo a img {
+        top: 400px;
+        height: 240px;
+        width: auto;
+        transition: all 1s;
+    }
+}

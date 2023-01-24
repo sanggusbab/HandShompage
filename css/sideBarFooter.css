@@ -1,0 +1,147 @@
+.sideBarFooter {
+    position: absolute;
+    bottom: 135px;
+    left: 0;
+    width: calc(100% - 60px);
+    padding: 0 30px;
+    overflow: hidden;
+    color: #fff;
+    height: 50px;
+}
+
+.sideBarFooterLinks {
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    width: calc(100% - 60px);
+    padding: 0 30px;
+    overflow: hidden;
+    color: #fff;
+    height: 120px;
+}
+
+.sideBarFooterLinks ul {
+    margin: 10px 0;
+}
+
+.sideBarFooterLinksLists {
+    position: relative;
+}
+
+.sideBarFooterLinksLists li img {
+    transition: .35s;
+}
+
+.sideBarFooterLinksLists li:hover img {
+    opacity: 0.6;
+    border-radius: 18px;
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
+}
+
+.sideBarFooterLinksLists li {
+    display: inline-block;
+    margin: 7px 10px;
+    float: left;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+}
+
+.sideBarFooterLogin {
+    position: relative;
+}
+
+.sideBarFooterLogin li a {
+    transition: .35s;
+}
+
+.sideBarFooterLogin li:hover a {
+    opacity: 0.6;
+    text-shadow: 0 0 8px #fff;
+}
+
+.sideBarFooterLoginButton {
+    display: inline-block;
+    text-align: right;
+    float: left;
+    margin-left: 45px;
+    width: 45px;
+}
+
+.sideBarFooterSignOutButton {
+    display: inline-block;
+    text-align: left;
+    float: left;
+    margin-right: 35px;
+    width: 55px;
+}
+
+.sideBarFooterLoginButton a {
+    font-size: 11px;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 0 6px #fff;
+    font-weight: bold;
+}
+
+.sideBarFooterSignOutButton a {
+    font-size: 11px;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 0 6px #fff;
+    font-weight: bold;
+}
+
+.sideBarFooterLogin span {
+    display: inline-block;
+    text-align: center;
+    float: left;
+    width: 40px;
+    font-size: 11px;
+    color: #fff;
+}
+
+@media screen and (max-height: 720px) {
+    .sideBarFooter {
+        display: none;
+    }
+
+    .sideBarFooterLinks {
+        position: absolute;
+        margin-bottom: 10px;
+        top: 170px;
+        left: 190px;
+        width: 30px;
+        overflow: hidden;
+        color: #fff;
+        height: 430px;
+    }
+
+    .sideBarFooterLinks ul {
+        margin: 10px 0;
+    }
+
+    .sideBarFooterLinksLists {
+        position: relative;
+    }
+
+    .sideBarFooterLinksLists li img {
+        transition: .35s;
+    }
+
+    .sideBarFooterLinksLists li:hover img {
+        opacity: 0.6;
+        border-radius: 18px;
+        box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
+    }
+
+    .sideBarFooterLinksLists li {
+        display: inline-block;
+        margin: 10px 0;
+        float: left;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+
+    }
+}

@@ -1,0 +1,47 @@
+/* footer */
+footer {
+    margin-top: 100px;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+}
+
+.footerLayout {
+    position: relative;
+    height: 100px;
+    left: 5%;
+    width: 90%;
+    align-items: center;
+    text-align: center;
+}
+
+.footerLayout span {
+    font-size: 0.75rem;
+    color: rgb(200, 200, 200);
+}
+
+.footerLayout nav {
+    padding: 10px 0;
+    font-size: 0.7rem;
+    color: rgb(200, 200, 200);
+}
+
+.footerLayout nav a {
+    font-size: 0.75rem;
+    color: rgb(200, 200, 200);
+}
+
+.footerInfo {
+    padding: 10px 0;
+}
+
+.footerInfo span {
+    font-size: 0.75rem;
+    color: rgb(200, 200, 200);
+}
+
+.footercopyright span {
+    font-size: 0.75rem;
+    color: rgb(200, 200, 200);
+}
