@@ -7,7 +7,7 @@
         </nav>
         <div class="footerInfo">
             <span>
-                서울특별시 성북구 안암로 145 B102호 | 145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
+                서울특별시 성북구 안암로 145 109호 | 145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
             </span>
         </div>
         <div class="footercopyright">
