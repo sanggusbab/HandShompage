@@ -4,7 +4,6 @@
     width: calc(100% 0);
     min-height: calc(100% - 270px);
     overflow: auto;
-    background: rgba(0, 0, 0, 0.8);
     transition: 1s;
 }
 
@@ -12,7 +11,6 @@
     position: relative;
     padding: 0 10%;
     width: 80%;
-    display: none;
 }
 
 .videoWrapper {

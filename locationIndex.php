@@ -31,7 +31,7 @@
             ?>
         </div>
         <?php
-        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/header.php';
+        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/headerIndexes.php';
         ?>
         <?php
         include_once $_SERVER['DOCUMENT_ROOT'] . '/include/sideBar.php';
