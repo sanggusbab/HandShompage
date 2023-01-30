@@ -101,7 +101,7 @@
     color: #fff;
 }
 
-@media screen and (max-height: 720px) {
+@media screen and (max-height: 640px) {
     .sideBarFooter {
         display: none;
     }
