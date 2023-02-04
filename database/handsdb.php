@@ -13,9 +13,9 @@
         //생성자
         function __construct(){
             //mode값에 따라 메소드 호출
-            if(isset($_POST('mode'])){
-                
-            })
+            if(isset($_POST['mode'])){
+
+            }
         }
     }
 ?>
