@@ -3,7 +3,7 @@
     <br>
     <br>
 </P>
-<div class="rows" style="text-align: center;">
+<div class="rows">
     <!-- * 카카오맵 - 지도퍼가기 -->
     <!-- 1. 지도 노드 -->
     <div id="daumRoughmapContainer1675508515386" class="root_daum_roughmap root_daum_roughmap_landing"></div>
