@@ -3,21 +3,4 @@
     <br>
     <br>
 </P>
-<!-- * 카카오맵 - 지도퍼가기 -->
-<!-- 1. 지도 노드 -->
-<div id="daumRoughmapContainer1675508515386" class="root_daum_roughmap root_daum_roughmap_landing" align="center" style="width: 100%;"></div>
-
-<!--
-	2. 설치 스크립트
-	* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
--->
-<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-
-<!-- 3. 실행 스크립트 -->
-<script charset="UTF-8">
-    new daum.roughmap.Lander({
-        "timestamp": "1675508515386",
-        "key": "2dn8o",
-        "mapHeight": "360"
-    }).render();
-</script>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3161.832511015934!2d127.02408121531202!3d37.58256147979495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357cbd4279f29c71%3A0xe4e68bbe651c1494!2z6rOg66Ck64yA7ZWZ6rWQIOyLoOqzte2Vmeq0gA!5e0!3m2!1sko!2skr!4v1675509020385!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
