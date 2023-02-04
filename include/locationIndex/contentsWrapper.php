@@ -19,8 +19,8 @@
         new daum.roughmap.Lander({
             "timestamp": "1675507210527",
             "key": "2dn8n",
-            "mapWidth": "1280",
-            "mapHeight": "360"
+            "mapWidth": "100%",
+            "mapHeight": "360px"
         }).render();
     </script>
 </div>
