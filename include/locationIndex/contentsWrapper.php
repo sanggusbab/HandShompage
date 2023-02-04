@@ -10,6 +10,7 @@
 <br>
 <b style="font-size: 18px;">상세 정보</b>
 <br>
+<br>
 <p style="float: left; display: table;">
     <img src="./images/resource/mapPinImage.jpg" alt="mapPinImage" style="width: 20px; display:table-cell; vertical-align:middle; opacity:0.7;">
     <span style="font-size: 13px; color: #444; display:table-cell; vertical-align:middle;">
