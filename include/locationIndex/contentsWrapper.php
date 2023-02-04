@@ -3,7 +3,7 @@
     <br>
     <br>
 </P>
-<div class="rows">
+<div class="rows" style="text-align: center;">
     <!-- * 카카오맵 - 지도퍼가기 -->
     <!-- 1. 지도 노드 -->
     <div id="daumRoughmapContainer1675507210527" class="root_daum_roughmap root_daum_roughmap_landing"></div>
@@ -19,8 +19,8 @@
         new daum.roughmap.Lander({
             "timestamp": "1675507210527",
             "key": "2dn8n",
-            "mapWidth": "100%",
-            "mapHeight": "360px"
+            "mapWidth": "1280",
+            "mapHeight": "360"
         }).render();
     </script>
 </div>
