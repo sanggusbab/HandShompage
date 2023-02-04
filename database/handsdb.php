@@ -17,7 +17,29 @@ class handsdb
     {
         //mode값에 따라 메소드 호출
         if (isset($_POST['mode'])) {
+            $this->mode =  $_POST['mode'];
+            //mode의 값에 따라 메소드 호출
+            if($this->mode == 'emailCheck'){
+                $this->emailCheck($_POST['userEmail']);
+            }else if($this->mode == 'save'){
+                $this->signUp();
+            }else if($this->mode == 'photo'){
+                $this->photoSave();
+            }
         }
     }
+
+    //회원가입(회원 정보 저장) 메소드
+    function signUp(){
+
+    }
+    //이메일 중복 체크 메소드
+    function emailCheck($email){
+
+    }
+    function photoSave(){
+
+    }
 }
+$handsdb = new handsdb;
 ?>
