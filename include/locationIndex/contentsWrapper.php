@@ -11,17 +11,18 @@
 <b style="font-size: 24px;">상세 정보</b>
 <br>
 <p style="float: left;">
-    <img src="./images/resource/mapPinImage.jpg" alt="mapPinImage" style="width: 15px;">
-    <span style="font-size: 12px; color: #bbb;">
+    <img src="./images/resource/mapPinImage.jpg" alt="mapPinImage" style="width: 17px;">
+    $nbsp
+    <span style="font-size: 13px; color: #ddd;">
         서울특별시 성북구 안암로 145 신공학관 109호 <br>
         Room 109, New Engineering Building, 145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
     </span>
 </p>
-<p style="font-size: 12px; color: #bbb;">
+<p style="font-size: 13px; color: #ddd;">
     지번 : 안암동 5가 126-16 신공학관 109호
 </p>
 <br>
 <p>
     <span>궁금하신 내용이 있으시다면? </span>
-    <span><a href="./contactusIndex.php">문의하기(CONTACT US)클릭</a></span>
+    <span><a href="./contactusIndex.php" style="font-size: 11px;">문의하기(CONTACT US)클릭</a></span>
 </p>
