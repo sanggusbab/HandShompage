@@ -320,7 +320,7 @@ input[id="sideBarmenuicon"]:checked+label span:nth-child(3) {
     text-decoration: none;
     text-shadow: 0 0 16px #BBB;
 }
-@media screen and (max-height: 960px) {
+@media screen and (max-height: 720px) {
     .sidebarContainer {
         height: 430px;
     }
