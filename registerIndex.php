@@ -9,10 +9,8 @@
     <title>HandS About Page</title>
 
     <link rel="stylesheet" href="./css/cssReset.css">
-    <link rel="stylesheet" href="./css/sideBar.css">
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/header.css">
-    <link rel="stylesheet" href="./css/sideBarFooter.css">
     <link rel="stylesheet" href="./cssIndexes/contentsContainer.css">
 
     <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
@@ -30,12 +28,6 @@
             include_once $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php';
             ?>
         </div>
-        <?php
-        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/headerIndexes.php';
-        ?>
-        <?php
-        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/sideBar.php';
-        ?>
     </div>
     <script type="text/javascript" src="./js/contentsWrappertoggle.js"></script>
 </body>
