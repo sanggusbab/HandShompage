@@ -55,7 +55,7 @@
         </div>
     </div>
 </div>
-<div class="rows">
+<div class="rows" style="text-align: center;">
     <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample">
 </div>
 <div>
