@@ -56,7 +56,7 @@
     </div>
 </div>
 <div class="rows">
-    <img src="images/etc/handshistorytimelinesample.png" alt="When Started">
+    <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
 </div>
 <div>
     이상 핸즈의 연혁이었습니다.
