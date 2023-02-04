@@ -31,10 +31,26 @@ class handsdb
 
     //회원가입(회원 정보 저장) 메소드
     function signUp(){
+        //이름의 닾뒤 공백 삭제
+        $membername = trim($_POST['membername']);
 
+        //한글 또는 영문으로 구성되어 있는지 확인
+        if(!preg_match('/^[a-zA-Z가-힣]+$/', $membername)){
+            echo '올바른 이름이 아닙니다.';
+            exit;
+        }
+
+        //이메일 주소의 앞 뒤 공백 삭제
+        $userEmail = trim($_POST['userEmail']);
+
+        //이메일 유효성 체크
+        if(!filter_Var($userEmail, FILTER_VALIDATE_EMAIL)){
+            exho '올바른 이메일이 아닙니다.';
+            exit;
+        }
     }
     //이메일 중복 체크 메소드
-    function emailCheck($email){
+    function emailCheck($memberemail){
 
     }
     function photoSave(){
