@@ -30,7 +30,6 @@
             include_once $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php';
             ?>
         </div>
-
         <?php
         include_once $_SERVER['DOCUMENT_ROOT'] . '/include/headerIndexes.php';
         ?>

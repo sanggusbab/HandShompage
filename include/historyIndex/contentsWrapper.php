@@ -1,5 +1,5 @@
 <P>
-    <b style="font-size: 24px;">핸즈의 연혁</b>
+    <b style="font-size: 24px;">핸즈의 연혁(History)</b>
     <br>
     <br>
 </P>
