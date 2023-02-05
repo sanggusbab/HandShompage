@@ -12,7 +12,9 @@
 <div class="sideBarFooterLinks">
     <ul class="sideBarFooterLinksLists">
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-github"></i>
+            </a>
         </li>
         <li>
             <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
