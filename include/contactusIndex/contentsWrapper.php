@@ -44,23 +44,23 @@
             <div style="width:100%; height:auto;">
                 <div style="width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="010"
-                        style="width:120px;height:25px;font-size:14px;text-align:center; float:left;">
+                        style="width:auto;height:auto;font-size:14px;text-align:center; float:left;">
                 </div>
                 <div style="width: 30px; height:auto; color: #666; font-size:16px; float:left;">
-                    <p style="text-align: center;margin:auto;">-</p>
+                    <p style="text-align: center;height:auto;margin:auto;">-</p>
                 </div>
 
                 <div style="width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="1234"
-                        style="width:120px;height:25px;font-size:14px;text-align:center; float:left;">
+                        style="width:auto;height:auto;font-size:14px;text-align:center; float:left;">
                 </div>
                 <div style="width: 30px; height:auto; color: #666; font-size:16px; float:left;">
-                    <p style="text-align: center;margin:auto;">-</p>
+                    <p style="text-align: center;height:auto;margin:auto;">-</p>
                 </div>
 
                 <div style="width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="5678"
-                        style="width:120px;height:25px;font-size:14px;text-align:center; float:left;">
+                        style="width:auto;height:auto;font-size:14px;text-align:center; float:left;">
                 </div>
             </div>
         </div>
