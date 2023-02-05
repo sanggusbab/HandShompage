@@ -8,7 +8,7 @@
         <p><b>프로젝트 | 대회</b></p> <br>
     </div>
     <div style="text-align: center; max-width: 80%; height: 300px; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample"  style="margin:auto;">
     </div>
     <div style="text-align: center;">
         <p>
@@ -28,7 +28,7 @@
         <p><b>세미나 | 스터디</b></p> <br>
     </div>
     <div style="text-align: center; max-width: 80%; height: 300px; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample" style="margin:auto;">
     </div>
     <div style="text-align: center;">
         <p>
@@ -48,7 +48,7 @@
         <p><b>홈페이지</b></p> <br>
     </div>
     <div style="text-align: center; max-width: 80%; height: 300px; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample"  style="margin:auto;">
     </div>
     <div style="text-align: center;">
         <p>
@@ -68,7 +68,7 @@
         <p><b>선후배의 연결성</b></p> <br>
     </div>
     <div style="text-align: center; max-width: 80%; height: 300px; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample"  style="margin:auto;">
     </div>
     <div style="text-align: center;">
         <p>
