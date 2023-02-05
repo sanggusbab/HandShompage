@@ -45,16 +45,16 @@
                 <input type="text" name="email" placeholder="010"
                     style="width:100%;height:100%;font-size:14px;text-align:center;">
             </div>
-            <div style="width: 30px; color: #666; font-size:16px; float:left;vertical-align: middle;">
-                <p style="text-align: center;">-</p>
+            <div style="width: 30px; color: #666; font-size:16px; float:left;">
+                <p style="height:100%;text-align: center;vertical-align: middle;">-</p>
             </div>
 
             <div style="width:120px;height:25px;float:left;">
                 <input type="text" name="email" placeholder="1234"
                     style="width:100%;height:100%;font-size:14px;text-align:center;">
             </div>
-            <div style="width: 30px; color: #666; font-size:16px; float:left;vertical-align: middle;">
-                <p style="text-align: center;">-</p>
+            <div style="width: 30px; color: #666; font-size:16px; float:left;">
+                <p style="height:100%;text-align: center;vertical-align: middle;">-</p>
             </div>
 
             <div style="width:120px;height:25px;float:left;">
