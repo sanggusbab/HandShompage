@@ -2,7 +2,7 @@
     <div style="width:400px; height:600px; background-color: #444; float: left; overflow: hidden;">
         <img src="" alt="" style="width:400px; height:600px;">
     </div>
-    <div style="width:400px; height:400px; background-color: #444; float: right;">
+    <div style="width:400px; height:600px; background-color: #444; float: right;">
         <p>hello</p>
     </div>
 </div>
