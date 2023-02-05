@@ -45,13 +45,17 @@
                 <input type="text" name="email" placeholder="example@example.korea.ac.kr"
                     style="width:120px;height:25px;font-size:14px;">
             </div>
-            <div style="color: #666; font-size:16px; margin: 0 auto; float:left;"> - </div>
+            <div style="width: 40px; color: #666; font-size:16px; text-align: center; float:left;">
+                <p style="margin:auto;"> - </p>
+            </div>
 
             <div style="float:left;">
                 <input type="text" name="email" placeholder="example@example.korea.ac.kr"
                     style="width:120px;height:25px;font-size:14px;">
             </div>
-            <div style="color: #666; font-size:16px; margin: 0 auto; float:left;"> - </div>
+            <div style="width: 40px; color: #666; font-size:16px; text-align: center; float:left;">
+                <p style="margin:auto;"> - </p>
+            </div>
 
             <div style="float:left;">
                 <input type="text" name="email" placeholder="example@example.korea.ac.kr"
