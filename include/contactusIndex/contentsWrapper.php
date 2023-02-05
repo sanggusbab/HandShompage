@@ -19,7 +19,7 @@
                 </p>
                 <input type="text">이름을 입력해주세요.
             </div>
-            <div class="rows" style="width: 50%; margin:20px 10% 10px; text-align:left; float: left;">
+            <div class="rows" style="width: 50%; margin:20px 10% 10px; text-align:left; float: right;">
                 <p style="color: #666;">
                     이름(Name)
                 </p>
