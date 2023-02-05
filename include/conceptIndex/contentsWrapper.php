@@ -68,6 +68,3 @@
         </div>
     </div>
 </div>
-<div>
-    이상 핸즈의 Concept이었습니다.
-</div>
