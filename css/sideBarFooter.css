@@ -102,14 +102,8 @@
     .sideBarFooterLinksLists {
         position: relative;
     }
-
-    .sideBarFooterLinksLists li i {
-        transition: .35s;
-        font-size: 20px;
-        color: white;
-    }
-
-    .sideBarFooterLinksLists li:hover i {
+    
+    .sideBarFooterLinksLists li:hover a i {
         opacity: 0.6;
         border-radius: 18px;
         text-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
@@ -129,11 +123,7 @@
     position: relative;
 }
 
-.sideBarFooterLinksLists li i {
-    transition: .35s;
-}
-
-.sideBarFooterLinksLists li:hover i {
+.sideBarFooterLinksLists li:hover a i {
     opacity: 0.6;
     border-radius: 18px;
     text-shadow: 0 0 25px rgba(255, 255, 255, 0.8);

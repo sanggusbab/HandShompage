@@ -13,7 +13,7 @@
     <ul class="sideBarFooterLinksLists">
         <li>
             <a href="http://www.naver.com">
-                <i class="fab fa-github fa-4x" style="color: white;font-size: 20px;text-shadow:0 0 5px white;"></i>
+                <i class="fab fa-github" style="color: white;font-size: 20px;text-shadow:0 0 5px white;transition: .35s;"></i>
             </a>
         </li>
         <li>
