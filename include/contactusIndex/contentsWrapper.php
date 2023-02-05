@@ -12,19 +12,27 @@
     </div>
     <div
         style="position: absolute; right:35px; width:630px; height:630px; background-color: #fff; box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.7) ;float: right;border-radius: 15px; z-index:2">
-        <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
-            <p style="color: #666;">
-                이름(Name)
-            </p>
+        <div style="width: 80%;">
+            <div class="rows" style="width: 50%; margin:20px 10% 10px; text-align:left; float: left;">
+                <p style="color: #666;">
+                    이름(Name)
+                </p>
+                <input type="text">이름을 입력해주세요.
+            </div>
+            <div class="rows" style="width: 50%; margin:20px 10% 10px; text-align:left; float: left;">
+                <p style="color: #666;">
+                    이름(Name)
+                </p>
+                <input type="text">이름을 입력해주세요.
+            </div>
         </div>
-        <div class="rows">이름을 입력해주세요.</div>
         <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
             <p style="color: #666;">
                 이메일(Email)
             </p>
         </div>
         <div class="rows">연락처를 입력해주세요.</div>
-                <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
+        <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
             <p style="color: #666;">
                 연락처(Mobile)
             </p>
