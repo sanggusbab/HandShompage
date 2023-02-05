@@ -42,23 +42,23 @@
                 &nbsp 연락처(Mobile)
             </p>
             <div style="width:100%; height:auto;">
-                <div style="width:120px;height:25px;float:left;">
+                <div style="display: block; width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="010"
                         style="width:auto;height:auto;font-size:14px;text-align:center;">
                 </div>
-                <div style="width: 30px; height:auto; color: #666; font-size:16px; float:left; text-align: center;vertical-align: middle;">
+                <div style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
                     -
                 </div>
 
-                <div style="width:120px;height:25px;float:left;">
+                <div style="display: block; width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="1234"
                         style="width:auto;height:auto;font-size:14px;text-align:center;">
                 </div>
-                <div style="width: 30px; height:auto; color: #666; font-size:16px; float:left; text-align: center;vertical-align: middle;">
+                <div style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
                     -
                 </div>
 
-                <div style="width:120px;height:25px;float:left;">
+                <div style="display: block; width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="5678"
                         style="width:auto;height:auto;font-size:14px;text-align:center;">
                 </div>
