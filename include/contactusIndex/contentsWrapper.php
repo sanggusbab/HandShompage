@@ -21,13 +21,13 @@
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 이름(First Name)
             </p>
-            <input type="text" name="firstName" value="이름을 입력해주세요." font-size="10px" size="30px">
+            <input type="text" name="firstName" value="이름을 입력해주세요." font-size="10px" size="30px" height="20px">
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 성(Last Name)
             </p>
-            <input type="text" name="lastName" value="성을 입력해주세요." font-size="10px" size="30px">
+            <input type="text" name="lastName" value="성을 입력해주세요." font-size="10px" size="30px" height="20px">
         </div>
         <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
             <p style="color: #666;">
