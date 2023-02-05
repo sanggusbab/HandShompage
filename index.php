@@ -22,8 +22,9 @@
 <body>
     <div class="background zindex01">
         <div class="relative">
-            <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt=""
-                style="width:400px; height:600px;">
+            <?php
+            include_once $_SERVER['DOCUMENT_ROOT'] . '/include/slide.php';
+            ?>
         </div>
     </div>
     <div class="background zindex02">
