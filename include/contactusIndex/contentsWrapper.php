@@ -16,7 +16,6 @@
             <p style="color: #666; font-size:24px;">
                 <b>Contact Us</b>
             </p>
-            <input type="text">이름을 입력해주세요.
         </div>
         <div class="rows" style="width: 50%; margin:20px 0 10px; text-align:left; float: left;">
             <p style="color: #666; font-size:16px;">
