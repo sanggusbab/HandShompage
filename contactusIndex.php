@@ -20,7 +20,7 @@
 </head>
 
 <body>
-    <div class="background zindex01">
+    <div class="background zindex01 backgroundImage">
         <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground">
     </div>
     <div class="background zindex02">
