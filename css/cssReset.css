@@ -169,3 +169,11 @@ header {
 .zindex4 {
     z-index: 4;
 }
+@font-face {
+    font-family: 'defaultfont';
+    src: url('../font/NanumGothic.ttf') format('woff'),
+        url('../font/NanumGothic.ttf') format('woff2');
+}
+body {
+    font-family: 'defaultfont';
+}
