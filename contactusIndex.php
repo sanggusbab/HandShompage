@@ -33,7 +33,8 @@
     <div class="background zindex03">
         <div class="relative">
             <div class="contentsContainer">
-                <div id="contentsWrapper">
+                <div id="
+                contentsWrapper">
                     <?php
                     include_once $_SERVER['DOCUMENT_ROOT'] . '/include/contactusIndex/contentsWrapper.php';
                     ?>
