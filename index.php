@@ -29,7 +29,6 @@
     </div>
     <div class="background zindex02">
         <div class="grayFilter"></div>
-
     </div>
     </div>
     <div class="background zindex03">
