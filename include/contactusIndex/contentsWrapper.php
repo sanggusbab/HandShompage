@@ -41,7 +41,7 @@
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
-            <div style="width:120px;height:25px;">
+            <div style="width:120px;height:25px;float:left;">
                 <input type="text" name="email" placeholder="010"
                     style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
             </div>
@@ -49,7 +49,7 @@
                 <p style="height:100%;text-align: center;vertical-align: middle;">-</p>
             </div>
 
-            <div style="width:120px;height:25px;">
+            <div style="width:120px;height:25px;float:left;">
                 <input type="text" name="email" placeholder="1234"
                     style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
             </div>
@@ -57,7 +57,7 @@
                 <p style="height:100%;text-align: center;vertical-align: middle;">-</p>
             </div>
 
-            <div style="width:120px;height:25px;">
+            <div style="width:120px;height:25px;float:left;">
                 <input type="text" name="email" placeholder="5678"
                     style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
             </div>
