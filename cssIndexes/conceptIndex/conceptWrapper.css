@@ -7,11 +7,11 @@
     width: calc(80% - 4px);
     max-width: 640px;
     height: auto;
-    border-color: rgba(139, 28, 33, 0.7);
+    border-color: rgba(139, 28, 33, 0.4);
     border-radius: 10px;
     border-width: 2px;
     border-style: solid;
-    box-shadow: 10px 10px 10px rgba(139, 28, 33, 0.5);
+    box-shadow: 10px 10px 10px rgba(139, 28, 33, 0.2);
 }
 
 .ContentsTitle p {
