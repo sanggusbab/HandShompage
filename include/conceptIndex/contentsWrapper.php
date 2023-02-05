@@ -5,7 +5,7 @@
 </P>
 <div class="rows" >
     <div class="ContentsTitle">
-        <p><b>프로젝트 | 대회</b></p> <br>
+        <p><b>프로젝트 | 대회</b></p>
     </div>
     <div class="ContentsImageWrappingBox">
         <img src="./images/resource/conceptIndex/Project.jpg" alt="handshistorytimelinesample">
@@ -24,7 +24,7 @@
 
 <div class="rows" >
     <div class="ContentsTitle">
-        <p><b>세미나 | 스터디</b></p> <br>
+        <p><b>세미나 | 스터디</b></p>
     </div>
     <div class="ContentsImageWrappingBox">
         <img src="./images/resource/conceptIndex/SeminorStudy.png" alt="handshistorytimelinesample">
@@ -43,7 +43,7 @@
 
 <div class="rows">
     <div class="ContentsTitle">
-        <p><b>홈페이지</b></p> <br>
+        <p><b>홈페이지</b></p>
     </div>
     <div class="ContentsImageWrappingBox">
         <img src="./images/resource/conceptIndex/Homepage.png" alt="handshistorytimelinesample">
@@ -62,7 +62,7 @@
 
 <div class="rows">
     <div class="ContentsTitle">
-        <p><b>선후배의 연결성</b></p> <br>
+        <p><b>선후배의 연결성</b></p>
     </div>
     <div class="ContentsImageWrappingBox">
         <img src="./images/resource/conceptIndex/Connectivity.png" alt="handshistorytimelinesample">
