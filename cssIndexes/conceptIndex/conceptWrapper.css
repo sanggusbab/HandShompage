@@ -3,8 +3,8 @@
 }
 .InnerBorder{
     padding: 5%;
-    margin: 5%;
-    width: calc(80% - 4px);
+    margin: 3% 0;
+    width: calc(90% - 4px);
     max-width: 640px;
     height: auto;
     border-color: rgba(139, 28, 33, 0.2);
