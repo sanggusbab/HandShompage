@@ -20,14 +20,14 @@
 </head>
 
 <body>
-    <div class="background zindex01">
+    <div class="zindex01">
         <div class="relative">
             <div class="backgroundImage">
                 <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground">
             </div>
         </div>
     </div>
-    <div class="background zindex02">
+    <div class="zindex02">
         <div class="grayFilter"></div>
     </div>
     <div class="zindex03 relative">
