@@ -21,8 +21,9 @@
 }
 
 .videoWrapper {
-    width: calc(100% - 60px);
-    margin: 30px;
+    width: 100%;
+    height: auto;
+    margin: 0 30px;
 }
 
 .text-faded {
