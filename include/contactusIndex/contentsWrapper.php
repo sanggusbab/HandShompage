@@ -13,8 +13,6 @@
                 <img src="./images/resource/contactusIndex/contactusLeftImage.jpg" alt="contactusBackground"
                     style="width:500px; height:700px;">
             </div>
-        </div>
-        <div class="relative">
             <div class="rows">이름(Name)</div>
             <div class="rows">이름을 입력해주세요.</div>
             <div class="rows">이메일(Email)</div>
