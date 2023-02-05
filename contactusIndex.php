@@ -31,8 +31,8 @@
         <div class="grayFilter"></div>
     </div>
     <div class="background zindex03">
-        <div class="contentsContainer relative">
-            <div id="contentsWrapper">
+        <div class="contentsContainer">
+            <div id="contentsWrapper relative">
                 <?php
                     include_once $_SERVER['DOCUMENT_ROOT'] . '/include/contactusIndex/contentsWrapper.php';
                     ?>
