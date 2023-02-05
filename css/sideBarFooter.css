@@ -25,29 +25,6 @@
     margin: 10px 0;
 }
 
-.sideBarFooterLinksLists {
-    position: relative;
-}
-
-.sideBarFooterLinksLists li img {
-    transition: .35s;
-}
-
-.sideBarFooterLinksLists li:hover img {
-    opacity: 0.6;
-    border-radius: 18px;
-    box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
-}
-
-.sideBarFooterLinksLists li {
-    display: inline-block;
-    margin: 7px 10px;
-    float: left;
-    width: 35px;
-    height: 35px;
-    text-align: center;
-}
-
 .sideBarFooterLogin {
     position: relative;
 }
@@ -129,7 +106,7 @@
     .sideBarFooterLinksLists li i {
         transition: .35s;
         font-size: 20px;
-        color: skyblue;
+        color: white;
     }
 
     .sideBarFooterLinksLists li:hover i {
@@ -147,4 +124,28 @@
         text-align: center;
 
     }
+}
+.sideBarFooterLinksLists {
+    position: relative;
+}
+
+.sideBarFooterLinksLists li i {
+    transition: .35s;
+    font-size: 20px;
+    color: white;
+}
+
+.sideBarFooterLinksLists li:hover i {
+    opacity: 0.6;
+    border-radius: 18px;
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
+}
+
+.sideBarFooterLinksLists li {
+    display: inline-block;
+    margin: 7px 10px;
+    float: left;
+    width: 35px;
+    height: 35px;
+    text-align: center;
 }
