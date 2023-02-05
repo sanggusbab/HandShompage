@@ -12,14 +12,14 @@
     </div>
     <div
         style="position: absolute; right:35px; width:630px; height:630px; background-color: #fff; box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.7) ;float: right;border-radius: 15px; z-index:2">
-        <div style="width: 80%;">
+        <div style="width: 80%; height: auto; padding: auto 10%;">
             <div class="rows" style="width: 50%; margin:20px 0 10px; text-align:left; float: left;">
-                <p style="color: #666;">
+                <p style="color: #666; font-size:16px;">
                     이름(Name)
                 </p>
                 <input type="text">이름을 입력해주세요.
             </div>
-            <div class="rows" style="width: 50%; margin:20px 0 10px; text-align:left; float: right;">
+            <div class="rows" style="width: 50%; margin:20px 0 10px; text-align:left; float: left;">
                 <p style="color: #666;">
                     이름(Name)
                 </p>
