@@ -30,7 +30,7 @@
             </p>
             <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
         </div>
-        <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
+        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 이메일(Email)
             </p>
