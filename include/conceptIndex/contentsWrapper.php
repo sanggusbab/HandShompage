@@ -1,8 +1,10 @@
-<P>
-    <b style="font-size: 24px;">CONCEPT</b>
-    <br>
-    <br>
-</P>
+<div style="text-align: left;">
+    <P>
+        <b style="font-size: 24px;">CONCEPT</b>
+        <br>
+        <br>
+    </P>
+</div >
 <div class="rows" >
     <div class="InnerBorder">
         <div class="ContentsTitle">
