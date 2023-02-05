@@ -62,17 +62,15 @@
                     style="width:100%;height:100%;font-size:14px;text-align:center;">
             </div>
         </div>
-        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
+        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 내용(Message)
             </p>
-        </div>
-        <div class="rows">
             <textarea name="message" id="" style="width:100%; height:200px;"></textarea>
         </div>
         <div class="rows">
             <button type="button" onclick="location.href = './registerIndex.php'"
-                style="width:280px; height:40px; font-size:18px; background-color: rgba(139, 28, 33, 1); color: white; box-shadow: 0 0 18px rgba(139, 28, 33, 0.4); font-weight: bold; border-radius: 16px; border: none; transition: 0.35s;">
+                style="width:280px; height:40px; margin-top:15px; font-size:18px; background-color: rgba(139, 28, 33, 1); color: white; box-shadow: 0 0 18px rgba(139, 28, 33, 0.4); font-weight: bold; border-radius: 16px; border: none; transition: 0.35s;">
                 <p style="font-size:18px;margin:auto;">제 출 하 기</p>
             </button>
         </div>
