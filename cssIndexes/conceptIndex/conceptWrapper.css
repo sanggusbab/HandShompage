@@ -9,8 +9,10 @@
     border-color: rgba(139, 28, 33, 1);
     border-radius: 10px;
     border: 2px;
+    border-style: solid;
     box-shadow: rgba(30, 30, 30, 0.6);
 }
+
 .ContentsTitle p {
     font-size: 18px;
     color: #444;
@@ -23,7 +25,7 @@
 
 .ContentsMessage p {
     font-size: 14px;
-    color: #444;
+    color: #555;
 }
 
 .ContentsImageWrappingBox {
