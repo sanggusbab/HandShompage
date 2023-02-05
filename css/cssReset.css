@@ -1,5 +1,17 @@
 @charset "utf-8";
+@font-face {
+    font-family: 'defaultfont';
+    src: url('../font/NotoSansKR-Medium.otf') format('woff'),
+        url('../font/NotoSansKR-Medium.otf') format('woff2');
+    font-weight: normal;
+}
 
+@font-face {
+    font-family: 'defaultfontbold';
+    src: url('../font/NotoSansKR-Bold.otf') format('woff'),
+        url('../font/NotoSansKR-Bold.otf') format('woff2');
+    font-weight: normal;
+}
 html,
 body,
 div,
@@ -88,6 +100,7 @@ video {
     vertical-align: baseline;
     width: 100%;
     background: rgba(255, 255, 255, 0);
+    font-family: 'defaultfont', serif;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -103,6 +116,7 @@ menu,
 nav,
 section {
     display: block;
+    font-family: 'defaultfont', serif;
 }
 
 body {
@@ -168,30 +182,4 @@ header {
 
 .zindex4 {
     z-index: 4;
-}
-
-@font-face {
-    font-family: 'defaultfont';
-    src: url('../font/NotoSansKR-Medium.otf') format('woff'),
-        url('../font/NotoSansKR-Medium.otf') format('woff2');
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: 'defaultfontbold';
-    src: url('../font/NotoSansKR-Bold.otf') format('woff'),
-        url('../font/NotoSansKR-Bold.otf') format('woff2');
-    font-weight: normal;
-}
-
-body div {
-    font-family: 'defaultfont', serif;
-}
-
-div p {
-    font-family: 'defaultfont', serif;
-}
-
-div b {
-    font-family: 'defaultfontbold', serif;
 }

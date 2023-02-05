@@ -64,7 +64,7 @@
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 내용(Message)
             </p>
-            <textarea name="message" id="" style="width:100%; height:200px;"></textarea>
+            <textarea name="message" id="" placeholder="내용을 입력해주세요." style="width:100%; height:200px;"></textarea>
         </div>
         <div class="rows">
             <button type="button" onclick="location.href = './index.php'" id="contactusCommitBtn">
