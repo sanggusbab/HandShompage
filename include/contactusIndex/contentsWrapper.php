@@ -18,13 +18,13 @@
             </p>
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
-            <p style="color: #666; font-size:16px;">
+            <p style="color: #666; font-size:12px;">
                 이름(First Name)
             </p>
             <input type="text">이름을 입력해주세요.
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
-            <p style="color: #666;">
+            <p style="color: #666; font-size:12px;">
                 성(Last Name)
             </p>
             <input type="text">이름을 입력해주세요.
