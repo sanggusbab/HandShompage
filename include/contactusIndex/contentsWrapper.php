@@ -38,7 +38,7 @@
                 style="width:450px;height:26px;font-size:14px;">
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
-            <p style="color: #666; font-size:12px; margin-bottom:6px;">
+            <p style="color: #666; font-size:12px; margin-bottom:6px;"> 
                 &nbsp 연락처(Mobile)
             </p>
             <div style="width:100%; height:auto;">
