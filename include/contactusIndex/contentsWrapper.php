@@ -41,14 +41,22 @@
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
-            <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                style="width:120px;height:25px;font-size:14px; float:left;">
-            <span style="color: #666; font-size:25px; margin: 0 auto;"> - </span>
-            <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                style="width:120px;height:25px;font-size:14px; float:left;">
-            <span style="color: #666; font-size:25px; margin: 0 auto;"> - </span>
-            <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                style="width:120px;height:25px;font-size:14px; float:left;">
+            <span>
+                <input type="text" name="email" placeholder="example@example.korea.ac.kr"
+                    style="width:120px;height:25px;font-size:14px; float:left;">
+            </span>
+            <span style="color: #666; font-size:16px; margin: 0 auto;"> - </span>
+
+            <span>
+                <input type="text" name="email" placeholder="example@example.korea.ac.kr"
+                    style="width:120px;height:25px;font-size:14px; float:left;">
+            </span>
+            <span style="color: #666; font-size:16px; margin: 0 auto;"> - </span>
+
+            <span>
+                <input type="text" name="email" placeholder="example@example.korea.ac.kr"
+                    style="width:120px;height:25px;font-size:14px; float:left;">
+            </span>
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
