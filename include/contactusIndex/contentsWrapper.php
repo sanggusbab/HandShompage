@@ -23,6 +23,12 @@
                 이메일(Email)
             </p>
         </div>
+        <div class="rows">연락처를 입력해주세요.</div>
+                <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
+            <p style="color: #666;">
+                연락처(Mobile)
+            </p>
+        </div>
         <div class="rows">이메일을 입력해주세요.</div>
         <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
             <p style="color: #666;">
