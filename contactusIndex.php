@@ -32,21 +32,21 @@
     </div>
     <div class="zindex03 relative">
         <div class="contentsContainer">
-            <div id="contentsWrapper ">
+            <div id="contentsWrapper">
                 <?php
-                    include_once $_SERVER['DOCUMENT_ROOT'] . '/include/contactusIndex/contentsWrapper.php';
-                    ?>
+                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/contactusIndex/contentsWrapper.php';
+                ?>
             </div>
             <?php
-                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php';
-                ?>
+            include_once $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php';
+            ?>
         </div>
         <?php
-            include_once $_SERVER['DOCUMENT_ROOT'] . '/include/headerIndexes.php';
-            ?>
+        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/headerIndexes.php';
+        ?>
         <?php
-            include_once $_SERVER['DOCUMENT_ROOT'] . '/include/sideBar.php';
-            ?>
+        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/sideBar.php';
+        ?>
     </div>
     <script type="text/javascript" src="./js/contentsWrappertoggle.js"></script>
 </body>
