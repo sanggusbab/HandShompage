@@ -11,7 +11,7 @@
             style="width:700px; height:700px;">
     </div>
     <div
-        style="position: absolute; right:35px; width:630px; height:630px; background-color: #fff; box-shadow: 0 0 20px rgba(255, 255, 255, 0.9) ;float: right;border-radius: 15px; z-index:2">
+        style="position: absolute; right:35px; width:630px; height:630px; background-color: #fff; box-shadow: 0 0 20px rgba(0, 0, 0, 0.7) ;float: right;border-radius: 15px; z-index:2">
         <div class="rows" style="width: 80%; margin:20px 10% 10px;">
             <p>
                 이름(Name)
