@@ -15,12 +15,14 @@
 }
 
 .ContentsTitle p {
+    margin: auto;
     font-size: 18px;
     color: #444;
     font-weight: bold;
 }
 
 .ContentsMessage {
+    margin: auto;
     text-align: center;
 }
 
@@ -30,6 +32,7 @@
 }
 
 .ContentsImageWrappingBox {
+    margin: auto;
     text-align: center;
     overflow: hidden;
 }
