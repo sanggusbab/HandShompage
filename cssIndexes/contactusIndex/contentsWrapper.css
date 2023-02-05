@@ -15,8 +15,8 @@
         min-width: 100%;
         left: 50%;
         transform: translateX(-50%);
+        height: 100%;
         overflow-x: hidden;
-        transition: all 2s;
     }
 }
 
