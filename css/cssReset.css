@@ -173,7 +173,8 @@ header {
     font-family: 'defaultfont';
     src: url('../font/NanumGothic.ttf') format('woff'),
         url('../font/NanumGothic.ttf') format('woff2');
+        font-weight: normal;
 }
 body {
-    font-family: 'defaultfont', sans-serif;
+    font-family: 'defaultfont', serif;
 }
