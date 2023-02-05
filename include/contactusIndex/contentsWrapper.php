@@ -43,10 +43,10 @@
             </p>
             <input type="text" name="email" placeholder="example@example.korea.ac.kr"
                 style="width:120px;height:25px;font-size:14px; float:left;">
-            <span style="color: #666; font-size:25px; margin: 0 auto; float:left;"> - </span>
+            <span style="color: #666; font-size:25px; margin: 0 auto;"> - </span>
             <input type="text" name="email" placeholder="example@example.korea.ac.kr"
                 style="width:120px;height:25px;font-size:14px; float:left;">
-            <span style="color: #666; font-size:25px; margin: 0 auto; float:left;"> - </span>
+            <span style="color: #666; font-size:25px; margin: 0 auto;"> - </span>
             <input type="text" name="email" placeholder="example@example.korea.ac.kr"
                 style="width:120px;height:25px;font-size:14px; float:left;">
         </div>
