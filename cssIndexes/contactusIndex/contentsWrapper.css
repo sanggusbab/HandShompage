@@ -30,3 +30,22 @@
         width: 100%;
     }
 }
+
+#contactusCommitBtn {
+    width: 280px;
+    height: 40px;
+    font-size: 18px;
+    background-color: rgba(139, 28, 33, 1);
+    color: white;
+    background-color: rgba(139, 28, 33, 0.6);
+    font-weight: bold;
+    border-radius: 16px;
+    border: none;
+    transition: 0.35s;
+}
+
+#contactusCommitBtn:hover {
+    background-color: rgba(139, 28, 33, 0.6);
+    cursor: pointer;
+    box-shadow: 0 0 12px rgba(169, 48, 53, 0.8);
+}
