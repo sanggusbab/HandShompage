@@ -69,7 +69,7 @@
             <textarea name="message" id="" style="width:100%; height:200px;"></textarea>
         </div>
         <div class="rows">
-            <button type="button" onclick="location.href = './registerIndex.php'"
+            <button type="button" onclick="location.href = './index.php'"
                 style="width:280px; height:40px; font-size:18px; background-color: rgba(139, 28, 33, 1); color: white; box-shadow: 0 0 18px rgba(139, 28, 33, 0.4); font-weight: bold; border-radius: 16px; border: none; transition: 0.35s;">
                 <p style="font-size:18px;margin:auto;">제 출 하 기</p>
             </button>
