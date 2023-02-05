@@ -28,7 +28,7 @@
         </li>
         <li>
             <a href="http://www.naver.com">
-                <i class="fab fa-github" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+                <i class="fab fa-hire-a-helper" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
             </a>
         </li>
         <li>
