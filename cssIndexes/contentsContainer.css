@@ -23,7 +23,7 @@
 .videoWrapper {
     width: 100%;
     height: auto;
-    margin: 0 30px;
+    margin: 30px 0;
 }
 
 .text-faded {
