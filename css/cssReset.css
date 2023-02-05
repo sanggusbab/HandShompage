@@ -169,15 +169,29 @@ header {
 .zindex4 {
     z-index: 4;
 }
+
 @font-face {
     font-family: 'defaultfont';
+    src: url('../font/NotoSansKR-Medium.otf') format('woff'),
+        url('../font/NotoSansKR-Medium.otf') format('woff2');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'defaultfontbold';
     src: url('../font/NotoSansKR-Bold.otf') format('woff'),
         url('../font/NotoSansKR-Bold.otf') format('woff2');
-        font-weight: normal;
+    font-weight: normal;
 }
-body div{
+
+body div {
     font-family: 'defaultfont', serif;
 }
-div p{
+
+div p {
     font-family: 'defaultfont', serif;
+}
+
+div b {
+    font-family: 'defaultfontbold', serif;
 }
