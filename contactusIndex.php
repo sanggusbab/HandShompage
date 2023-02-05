@@ -30,8 +30,8 @@
     <div class="background zindex02 relative">
         <div class="grayFilter"></div>
     </div>
-    <div class="background zindex03 relative">
-        <div class="contentsContainer">
+    <div class="background zindex03">
+        <div class="contentsContainer relative">
             <div id="contentsWrapper">
                 <?php
                     include_once $_SERVER['DOCUMENT_ROOT'] . '/include/contactusIndex/contentsWrapper.php';
