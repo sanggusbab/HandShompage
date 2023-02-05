@@ -35,9 +35,6 @@
                 &nbsp 이메일(Email)
             </p>
             <input type="text" name="email" placeholder="이메일을 입력해주세요." style="width:200px;height:25px;font-size:14px; float: left; margin-right: 10px;">
-            <span style="color: #666; font-size:14px; margin-bottom:6px;">
-                @
-            </span>
             <input type="text" name="email" placeholder="이메일을 입력해주세요." style="width:200px;height:25px;font-size:14px; float: left; margin-left: 10px;">
         </div>
         <div class="rows">연락처를 입력해주세요.</div>
