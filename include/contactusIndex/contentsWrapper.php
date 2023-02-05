@@ -3,6 +3,11 @@
         <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground" style="width:500px; height:700px;">
     </div>
     <div style="width:430px; height:630px; background-color: #444; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) ;float: right;border-radius: 15px;">
-        <p>hello</p>
+        <div class="rows">hello</div>
+        <div class="rows">hello</div>
+        <div class="rows">hello</div>
+        <div class="rows">hello</div>
+        <div class="rows">hello</div>
+        <div class="rows">hello</div>
     </div>
 </div>
