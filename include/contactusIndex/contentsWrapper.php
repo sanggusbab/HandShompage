@@ -52,8 +52,8 @@
         </div>
         <div class="rows">
             <button type="button" onclick="location.href = './registerIndex.php'"
-                style="width:200px;height:25px;font-size:18px; width: 140px; height: 32px; background-color: rgba(139, 28, 33, 1); color: white; box-shadow: 0 0 18px rgba(139, 28, 33, 0.4); font-weight: bold; border-radius: 16px; border: none;transition: 0.35s;">
-                <b style="font-size:18px;">제출하기</b>
+                style="width:200px; height:25px; margin-top:10px; font-size:18px; background-color: rgba(139, 28, 33, 1); color: white; box-shadow: 0 0 18px rgba(139, 28, 33, 0.4); font-weight: bold; border-radius: 16px; border: none; transition: 0.35s;">
+                <b style="font-size:18px;margin:auto">제출하기</b>
             </button>
         </div>
     </div>
