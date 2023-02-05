@@ -46,7 +46,7 @@
                     style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
             </div>
             <div style="width: 30px; color: #666; font-size:16px; float:left;">
-                <p style="height:100%;text-align: center;vertical-align: middle;">-</p>
+                <p style="height:100%;text-align: center;margin:auto;">-</p>
             </div>
 
             <div style="width:120px;height:25px;float:left;">
@@ -54,7 +54,7 @@
                     style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
             </div>
             <div style="width: 30px; color: #666; font-size:16px; float:left;">
-                <p style="height:100%;text-align: center;vertical-align: middle;">-</p>
+                <p style="height:100%;text-align: center;margin:auto;">-</p>
             </div>
 
             <div style="width:120px;height:25px;float:left;">
