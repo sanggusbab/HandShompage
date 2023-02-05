@@ -13,7 +13,7 @@
     <ul class="sideBarFooterLinksLists">
         <li>
             <a href="http://www.naver.com">
-                <i class="fab fa-github"></i>
+                <i class="fa-"></i>
             </a>
         </li>
         <li>

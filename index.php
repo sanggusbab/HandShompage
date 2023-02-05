@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/sideBarFooter.css">
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css"
+    >
     <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
     <script src="./js/sideBarmenuiconToggle.js"></script>
 </head>

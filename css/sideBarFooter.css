@@ -127,6 +127,8 @@
 
     .sideBarFooterLinksLists li i {
         transition: .35s;
+        font-size: 20px;
+        color: skyblue;
     }
 
     .sideBarFooterLinksLists li:hover i {
