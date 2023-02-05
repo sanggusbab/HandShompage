@@ -41,25 +41,27 @@
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
-            <div style="width:120px;height:25px;float:left;">
-                <input type="text" name="email" placeholder="010"
-                    style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
-            </div>
-            <div style="width: 30px; color: #666; font-size:16px; float:left;">
-                <p style="height:100%;text-align: center;margin:auto;">-</p>
-            </div>
+            <div style="width:100%; height:auto;">
+                <div style="width:120px;height:25px;float:left;">
+                    <input type="text" name="email" placeholder="010"
+                        style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
+                </div>
+                <div style="width: 30px; color: #666; font-size:16px; float:left;">
+                    <p style="height:100%;text-align: center;margin:auto;">-</p>
+                </div>
 
-            <div style="width:120px;height:25px;float:left;">
-                <input type="text" name="email" placeholder="1234"
-                    style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
-            </div>
-            <div style="width: 30px; color: #666; font-size:16px; float:left;">
-                <p style="height:100%;text-align: center;margin:auto;">-</p>
-            </div>
+                <div style="width:120px;height:25px;float:left;">
+                    <input type="text" name="email" placeholder="1234"
+                        style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
+                </div>
+                <div style="width: 30px; color: #666; font-size:16px; float:left;">
+                    <p style="height:100%;text-align: center;margin:auto;">-</p>
+                </div>
 
-            <div style="width:120px;height:25px;float:left;">
-                <input type="text" name="email" placeholder="5678"
-                    style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
+                <div style="width:120px;height:25px;float:left;">
+                    <input type="text" name="email" placeholder="5678"
+                        style="width:100%;height:100%;font-size:14px;text-align:center; float:left;">
+                </div>
             </div>
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
