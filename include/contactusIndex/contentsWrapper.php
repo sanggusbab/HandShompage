@@ -17,15 +17,15 @@
                 <b>Contact Us</b>
             </p>
         </div>
-        <div class="rows" style="width: 50%; margin:10px 0 0; text-align:left; float: left;">
+        <div class="rows" style="width: 50%; text-align:left; float: left;">
             <p style="color: #666; font-size:16px;">
-                이름(Name)
+                이름(First Name)
             </p>
             <input type="text">이름을 입력해주세요.
         </div>
-        <div class="rows" style="width: 50%; margin:20px 0 10px; text-align:left; float: left;">
+        <div class="rows" style="width: 50%; text-align:left; float: left;">
             <p style="color: #666;">
-                이름(Name)
+                성(Last Name)
             </p>
             <input type="text">이름을 입력해주세요.
         </div>
