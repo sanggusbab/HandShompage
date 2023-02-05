@@ -22,46 +22,42 @@
                 &nbsp 이름(First Name)
             </p>
             <input type="text" name="firstName" placeholder="이름을 입력해주세요."
-                style="width:200px;height:25px;font-size:14px;">
+                style="width:200px;height:26px;font-size:14px;">
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 성(Last Name)
             </p>
-            <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
+            <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:26px;font-size:14px;">
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 이메일(Email)
             </p>
             <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                style="width:450px;height:25px;font-size:14px;">
+                style="width:450px;height:26px;font-size:14px;">
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
             <div style="width:100%; height:auto;">
-                <div style="display: block; width:120px;height:25px;float:left;">
-                    <input type="text" name="email" placeholder="010"
-                        style="width:100px;height:auto;font-size:14px;text-align:center;">
-                </div>
-                <div style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
+                <input type="text" name="email" placeholder="010"
+                    style="display: block; width:120px;height:26px;font-size:14px;text-align:center;float:left;">
+                <div
+                    style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
                     -
                 </div>
 
-                <div style="display: block; width:120px;height:25px;float:left;">
-                    <input type="text" name="email" placeholder="1234"
-                        style="width:100px;height:auto;font-size:14px;text-align:center;">
-                </div>
-                <div style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
+                <input type="text" name="email" placeholder="1234"
+                    style="display: block; width:120px;height:26px;font-size:14px;text-align:center;float:left;">
+                <div
+                    style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
                     -
                 </div>
 
-                <div style="display: block; width:120px;height:25px;float:left;">
-                    <input type="text" name="email" placeholder="5678"
-                        style="width:100px;height:auto;font-size:14px;text-align:center;">
-                </div>
+                <input type="text" name="email" placeholder="5678"
+                    style="display: block; width:120px;height:26px;font-size:14px;text-align:center;float:left;">
             </div>
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
