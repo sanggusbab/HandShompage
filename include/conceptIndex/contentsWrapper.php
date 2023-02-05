@@ -8,7 +8,7 @@
         <p><b>프로젝트 | 대회</b></p> <br>
     </div>
     <div class="ContentsImageWrappingBox">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
+        <img src="./images/resource/conceptIndex/Project.jpg" alt="handshistorytimelinesample">
     </div>
     <div class="ContentsMessage">
         <p>
@@ -28,7 +28,7 @@
         <p><b>세미나 | 스터디</b></p> <br>
     </div>
     <div class="ContentsImageWrappingBox">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
+        <img src="./images/resource/conceptIndex/SeminorStudy.png" alt="handshistorytimelinesample">
     </div>
     <div class="ContentsMessage">
         <p>
@@ -48,7 +48,7 @@
         <p><b>홈페이지</b></p> <br>
     </div>
     <div class="ContentsImageWrappingBox">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
+        <img src="./images/resource/conceptIndex/Homepage.png" alt="handshistorytimelinesample">
     </div>
     <div class="ContentsMessage">
         <p>
@@ -68,7 +68,7 @@
         <p><b>선후배의 연결성</b></p> <br>
     </div>
     <div class="ContentsImageWrappingBox">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
+        <img src="./images/resource/conceptIndex/Connectivity.png" alt="handshistorytimelinesample">
     </div>
     <div class="ContentsMessage">
         <p>
