@@ -103,7 +103,7 @@
         position: relative;
     }
 
-    .sideBarFooterLinksLists li i {
+    .sideBarFooterLinksLists li a i {
         transition: .35s;
         font-size: 20px;
         color: white;
@@ -129,7 +129,7 @@
     position: relative;
 }
 
-.sideBarFooterLinksLists li i {
+.sideBarFooterLinksLists li a i {
     transition: .35s;
     font-size: 20px;
     color: white;
