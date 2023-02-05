@@ -14,11 +14,13 @@
                     style="width:500px; height:700px;">
             </div>
         </div>
-        <div class="rows">이름(Name)</div>
-        <div class="rows">이름을 입력해주세요.</div>
-        <div class="rows">이메일(Email)</div>
-        <div class="rows">이메일을 입력해주세요.</div>
-        <div class="rows">내용(Message)</div>
-        <div class="rows">내용을 입력해주세요.</div>
+        <div class="relative">
+            <div class="rows">이름(Name)</div>
+            <div class="rows">이름을 입력해주세요.</div>
+            <div class="rows">이메일(Email)</div>
+            <div class="rows">이메일을 입력해주세요.</div>
+            <div class="rows">내용(Message)</div>
+            <div class="rows">내용을 입력해주세요.</div>
+        </div>
     </div>
 </div>
