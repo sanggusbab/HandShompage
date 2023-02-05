@@ -1,12 +1,12 @@
 .sideBarFooter {
     position: absolute;
-    bottom: 135px;
+    bottom: 110px;
     left: 0;
     width: calc(100% - 60px);
     padding: 0 30px;
     overflow: hidden;
     color: #fff;
-    height: 50px;
+    height: 40px;
 }
 .sideBarFooterLogin {
     position: relative;
