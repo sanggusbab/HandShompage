@@ -20,8 +20,10 @@
 </head>
 
 <body>
-    <div class="background zindex01 backgroundImage">
-        <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground">
+    <div class="background zindex01">
+        <div class="backgroundImage">
+            <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground">
+        </div >
     </div>
     <div class="background zindex02">
         <div class="grayFilter"></div>

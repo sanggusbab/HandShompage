@@ -136,10 +136,6 @@
     right: 15px;
 }
 
-/* 페이지네이션 스타일 */
-.slide_pagination{
-    opacity: 0;
-}
 .slide_item_duplicate {
     display: flex;
     align-items: center;
