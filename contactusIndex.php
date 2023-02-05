@@ -20,19 +20,19 @@
 </head>
 
 <body>
-    <div class="background zindex01 relative">
+    <div class="background zindex01">
         <div class="relative">
             <div class="backgroundImage">
                 <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground">
             </div>
         </div>
     </div>
-    <div class="background zindex02 relative">
+    <div class="background zindex02">
         <div class="grayFilter"></div>
     </div>
-    <div class="background zindex03">
+    <div class="background zindex03 relative">
         <div class="contentsContainer">
-            <div id="contentsWrapper relative">
+            <div id="contentsWrapper ">
                 <?php
                     include_once $_SERVER['DOCUMENT_ROOT'] . '/include/contactusIndex/contentsWrapper.php';
                     ?>
