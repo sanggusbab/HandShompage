@@ -12,19 +12,19 @@
     </div>
     <div
         style="position: absolute; right:35px; width:570px; height:630px; padding: 0 30px;background-color: #fff; box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.7) ;float: right;border-radius: 15px; z-index:2">
-        <div class="rows" style="width: 100%; margin:20px 0 10px; text-align:center; float: left;">
+        <div class="rows" style="width: 100%; margin:20px 0; text-align:center; float: left;">
             <p>
                 <b style="color: #444; font-size:32px;">Contact Us</b>
             </p>
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
-            <p style="color: #666; font-size:12px;">
+            <p style="color: #666; font-size:14px; margin-bottom:10px;">
                 &nbsp 이름(First Name)
             </p>
             <input type="text">이름을 입력해주세요.
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
-            <p style="color: #666; font-size:12px;">
+            <p style="color: #666; font-size:14px; margin-bottom:10px;">
                 &nbsp 성(Last Name)
             </p>
             <input type="text">이름을 입력해주세요.
