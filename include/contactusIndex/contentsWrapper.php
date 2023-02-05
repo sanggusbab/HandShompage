@@ -40,7 +40,9 @@
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
-            <input type="text" name="email" placeholder="example@example.korea.ac.kr" style="width:450px;height:25px;font-size:14px;">
+            <input type="text" name="email" placeholder="example@example.korea.ac.kr" style="width:120px;height:25px;font-size:14px; float:left;">
+            <input type="text" name="email" placeholder="example@example.korea.ac.kr" style="width:120px;height:25px;font-size:14px; float:left;">
+            <input type="text" name="email" placeholder="example@example.korea.ac.kr" style="width:120px;height:25px;font-size:14px; float:left;">
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
