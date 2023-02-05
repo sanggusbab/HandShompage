@@ -1,0 +1,49 @@
+<section id="give">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">기부 문의</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-heart wow bounceIn text-primary" style="visibility: visible; animation-name: bounceIn;"></i>
+                    <h3>기부 참여 방법</h3>
+                    <br>
+                    <p class="text-muted"> 누구나 편리하게 참여 하실 수 있습니다.</p>
+                    <div class="service-box">
+                        <a href="img/핸즈발전기금_기부 방법.pdf" class="btn btn-primary btn-xl page-scroll wow tada" style="visibility: visible; animation-name: tada;">
+                            기부 참여 방법 자세히 보기</a>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <p class="text-muted"> 기부는 대외협력처 홈페이지에서 가능합니다.</p>
+                    <div class="service-box">
+                        <a href="https://give.korea.ac.kr/front/main.do" class="btn btn-primary btn-xl page-scroll wow tada" style="visibility: visible; animation-name: tada;">
+                            대외협력처 홈페이지 바로가기</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-align-left wow bounceIn text-primary" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: bounceIn;"></i>
+                    <h3>HandS를 위해 기부해주신 분들</h3>
+                    <br>
+                    <p class="text-muted">
+                                86학번 김건웅 선배님 <br>
+                                87학번 홍준성 선배님 <br>
+                                92학번 박선옥 선배님 <br>
+                                94학번 서진희 선배님 <br>
+                                04학번 유수현 선배님 <br>
+                                06학번 이홍식 선배님 <br>
+                                12학번 신동주 선배님 </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

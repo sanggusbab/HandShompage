@@ -1,9 +1,11 @@
 <footer>
     <div class="footerLayout">
         <nav>
-            <a href='https://www.naver.com' target='_blank'>개인정보처리방침</a>
+            <a href='./termsOfServiceIndex.php' target='_blank'>서비스 약관</a>
             &nbsp &nbsp | &nbsp &nbsp
-            <a href='https://www.naver.com' target='_blank'>Community</a>
+            <a href='./privacyPolicyIndex.php' target='_blank'>개인정보처리방침</a>
+            &nbsp &nbsp | &nbsp &nbsp
+            <a href='./handsPageIndex.php' target='_blank'>Community</a>
         </nav>
         <div class="footerInfo">
             <span>

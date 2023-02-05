@@ -23,7 +23,7 @@
         <div class="contentsContainer">
             <div id="contentsWrapper">
                 <?php
-                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/donationIndex/contentsWrapper.php';
+                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/termsOfServiceIndex/contentsWrapper.php';
                 ?>
             </div>
             <?php
