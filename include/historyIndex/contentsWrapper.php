@@ -58,6 +58,3 @@
 <div class="rows" style="text-align: center;">
     <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample">
 </div>
-<div>
-    이상 핸즈의 연혁이었습니다.
-</div>
