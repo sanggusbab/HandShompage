@@ -30,10 +30,15 @@
             </p>
             <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
         </div>
-        <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
-            <p style="color: #666;">
-                이메일(Email)
+        <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
+            <p style="color: #666; font-size:14px; margin-bottom:6px;">
+                &nbsp 이메일(Email)
             </p>
+            <input type="text" name="email" placeholder="이메일을 입력해주세요." style="width:200px;height:25px;font-size:14px; float: left; margin-right: 10px;">
+            <span style="color: #666; font-size:14px; margin-bottom:6px;">
+                @
+            </span>
+            <input type="text" name="email" placeholder="이메일을 입력해주세요." style="width:200px;height:25px;font-size:14px; float: left; margin-left: 10px;">
         </div>
         <div class="rows">연락처를 입력해주세요.</div>
         <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
