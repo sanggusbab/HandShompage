@@ -1,6 +1,5 @@
 @media screen and (min-width:0) and (max-width:1920px) {
     .background img {
-        object-fit: cover;
         position: absolute;
         min-height: 100%;
         min-width: 100%;
@@ -13,7 +12,6 @@
 
 @media screen and (min-width:1921px) and (max-width:5120px) {
     .background img {
-        object-fit: cover;
         position: absolute;
         min-height: 100%;
         min-width: 100%;
@@ -23,4 +21,7 @@
         overflow-y: hidden;
         transition: all 2s;
     }
+}
+.background{
+    position: relative;
 }
