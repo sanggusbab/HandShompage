@@ -14,7 +14,7 @@
         style="position: absolute; right:35px; width:570px; height:630px; padding: 0 30px;background-color: #fff; box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.7) ;float: right;border-radius: 15px; z-index:2">
         <div class="rows" style="width: 100%; margin:20px 0 10px; text-align:center; float: left;">
             <p>
-                <b style="color: #444; font-size:48px;">Contact Us</b>
+                <b style="color: #444; font-size:32px;">Contact Us</b>
             </p>
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
