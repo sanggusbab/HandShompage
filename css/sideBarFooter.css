@@ -1,4 +1,3 @@
-
 .sideBarFooter {
     position: absolute;
     bottom: 135px;
@@ -116,9 +115,10 @@
         width: 30px;
         height: 30px;
         text-align: center;
-
+        transition: .35s;
     }
 }
+
 .sideBarFooterLinksLists {
     position: relative;
 }
@@ -136,4 +136,5 @@
     width: 35px;
     height: 35px;
     text-align: center;
+    transition: .35s;
 }
