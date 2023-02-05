@@ -17,10 +17,6 @@
         width: 40%;
         height: 100px;
     }
-
-    .handshistorytimelinesample {
-        width: 100%;
-    }
 }
 
 @media screen and (min-width:860px) and (max-width:1280px) {
@@ -35,10 +31,6 @@
         margin: 0 30%;
         width: 40%;
         height: 100px;
-    }
-
-    .handshistorytimelinesample {
-        width: 600px;
     }
 }
 
@@ -56,11 +48,6 @@
         height: 100px;
     }
 
-    .handshistorytimelinesample {
-        width: 900px;
-    }
-}
-
 @media screen and (min-width:1700px) {
     .HistoryWrapper {
         float: left;
@@ -74,8 +61,10 @@
         width: 40%;
         height: 100px;
     }
+}
 
-    .handshistorytimelinesample {
-        width: 1000px;
-    }
+.handshistorytimelinesample{
+    margin: 5%;
+    width: 100%;
+    height: auto;
 }
