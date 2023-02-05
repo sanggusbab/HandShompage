@@ -47,7 +47,7 @@
             </p>
         </div>
         <div class="rows">
-            <textarea name="message" id="" cols="100" rows="10"></textarea>
+            <textarea name="message" id="" cols="70" rows="10"></textarea>
         </div>
     </div>
 </div>
