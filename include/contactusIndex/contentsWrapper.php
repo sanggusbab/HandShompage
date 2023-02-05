@@ -44,7 +44,7 @@
             <div style="width:100%; height:auto;">
                 <div style="display: block; width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="010"
-                        style="width:auto;height:auto;font-size:14px;text-align:center;">
+                        style="width:100px;height:auto;font-size:14px;text-align:center;">
                 </div>
                 <div style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
                     -
@@ -52,7 +52,7 @@
 
                 <div style="display: block; width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="1234"
-                        style="width:auto;height:auto;font-size:14px;text-align:center;">
+                        style="width:100px;height:auto;font-size:14px;text-align:center;">
                 </div>
                 <div style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
                     -
@@ -60,7 +60,7 @@
 
                 <div style="display: block; width:120px;height:25px;float:left;">
                     <input type="text" name="email" placeholder="5678"
-                        style="width:auto;height:auto;font-size:14px;text-align:center;">
+                        style="width:100px;height:auto;font-size:14px;text-align:center;">
                 </div>
             </div>
         </div>
