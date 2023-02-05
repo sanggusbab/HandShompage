@@ -19,12 +19,8 @@
 </head>
 
 <body>
-    <div class="background zindex01">
-        <div class="relative">
-            <?php
-            include_once $_SERVER['DOCUMENT_ROOT'] . '/include/slide.php';
-            ?>
-        </div>
+    <div class="background zindex02">
+        <div class="grayFilter"></div>
     </div>
     <div class="relative">
         <div class="contentsContainer">
