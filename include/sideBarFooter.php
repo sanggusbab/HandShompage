@@ -13,29 +13,43 @@
     <ul class="sideBarFooterLinksLists">
         <li>
             <a href="http://www.naver.com">
-                <i class="fab fa-github" style="color: white;font-size: 35px;text-shadow:0 0 5px white;transition: .35s;"></i>
+                <i class="fab fa-github" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
             </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-instagram" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-facebook" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-github" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-docker" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-google-drive" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-twitter" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
         <li>
-            <a href="http://www.naver.com"><img src="./images/resource/profileLogo.png" alt="profileLogo"></a>
+            <a href="http://www.naver.com">
+                <i class="fab fa-korvue" style="color: white;font-size: 35px;text-shadow:0 0 5px white;"></i>
+            </a>
         </li>
     </ul>
 </div>
