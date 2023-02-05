@@ -21,7 +21,8 @@
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 이름(First Name)
             </p>
-            <input type="text" name="firstName" placeholder="이름을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
+            <input type="text" name="firstName" placeholder="이름을 입력해주세요."
+                style="width:200px;height:25px;font-size:14px;">
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
@@ -48,6 +49,12 @@
         </div>
         <div class="rows">
             <textarea name="message" id="" cols="70" rows="10"></textarea>
+        </div>
+        <div class="rows">
+            <button type="button" onclick="location.href = './registerIndex.php'"
+                style="width:200px;height:25px;font-size:18px; width: 140px; height: 32px; background-color: rgba(139, 28, 33, 1); color: white; box-shadow: 0 0 18px rgba(139, 28, 33, 0.4); font-weight: bold; border-radius: 16px; border: none;transition: 0.35s;">
+                <b style="font-size:18px;">제출하기</b>
+            </button>
         </div>
     </div>
 </div>
