@@ -7,7 +7,7 @@
     </div>
     <div
         style="position: absolute; right: 0px; top:0px; width:700px; height:700px; background-color: #444; overflow: hidden;border-top-right-radius: 15px; border-bottom-right-radius: 15px; z-index:1">
-        <img src="./images/resource/contactusIndex/contactusLeftImage.jpg" alt="contactusBackground"
+        <img src="./images/resource/contactusIndex/contactusLeftImage2.jpg" alt="contactusBackground"
             style="width:500px; height:700px;">
     </div>
     <div
