@@ -41,22 +41,22 @@
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
-            <span>
+            <div style="float:left;">
                 <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                    style="width:120px;height:25px;font-size:14px; float:left;">
-            </span>
-            <span style="color: #666; font-size:16px; margin: 0 auto;"> - </span>
+                    style="width:120px;height:25px;font-size:14px;">
+            </div>
+            <div style="color: #666; font-size:16px; margin: 0 auto; float:left;"> - </div>
 
-            <span>
+            <div style="float:left;">
                 <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                    style="width:120px;height:25px;font-size:14px; float:left;">
-            </span>
-            <span style="color: #666; font-size:16px; margin: 0 auto;"> - </span>
+                    style="width:120px;height:25px;font-size:14px;">
+            </div>
+            <div style="color: #666; font-size:16px; margin: 0 auto; float:left;"> - </div>
 
-            <span>
+            <div style="float:left;">
                 <input type="text" name="email" placeholder="example@example.korea.ac.kr"
-                    style="width:120px;height:25px;font-size:14px; float:left;">
-            </span>
+                    style="width:120px;height:25px;font-size:14px;">
+            </div>
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
