@@ -175,6 +175,6 @@ header {
         url('../font/NanumGothic.ttf') format('woff2');
         font-weight: normal;
 }
-body {
+body div{
     font-family: 'defaultfont', serif;
 }
