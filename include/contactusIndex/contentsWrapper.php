@@ -17,54 +17,54 @@
                 <b style="color: #444; font-size:32px;">Contact Us</b>
             </p>
         </div>
-        <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
+        <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 이름(First Name)
             </p>
             <input type="text" name="firstName" placeholder="이름을 입력해주세요."
                 style="width:200px;height:25px;font-size:14px;">
         </div>
-        <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
+        <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 성(Last Name)
             </p>
             <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
         </div>
-        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
+        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 이메일(Email)
             </p>
             <input type="text" name="email" placeholder="example@example.korea.ac.kr"
                 style="width:450px;height:25px;font-size:14px;">
         </div>
-        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
+        <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 연락처(Mobile)
             </p>
-            <div style="float:left;width:120px;height:25px;">
-                <input type="text" name="email" placeholder="example@example.korea.ac.kr"
+            <div style="width:120px;height:25px;float:left;">
+                <input type="text" name="email" placeholder="010"
                     style="width:100%;height:100%;font-size:14px;">
             </div>
             <div style="width: 30px; color: #666; font-size:16px; float:left;">
                 <p style="text-align: center;">-</p>
             </div>
 
-            <div style="float:left;width:120px;height:25px;">
-                <input type="text" name="email" placeholder="example@example.korea.ac.kr"
+            <div style="width:120px;height:25px;float:left;">
+                <input type="text" name="email" placeholder="2846"
                     style="width:100%;height:100%;font-size:14px;">
             </div>
             <div style="width: 30px; color: #666; font-size:16px; float:left;">
                 <p style="text-align: center;">-</p>
             </div>
 
-            <div style="float:left;width:120px;height:25px;">
-                <input type="text" name="email" placeholder="example@example.korea.ac.kr"
+            <div style="width:120px;height:25px;float:left;">
+                <input type="text" name="email" placeholder="2327"
                     style="width:100%;height:100%;font-size:14px;">
             </div>
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
-                내용(Message)
+                &nbsp 내용(Message)
             </p>
         </div>
         <div class="rows">
