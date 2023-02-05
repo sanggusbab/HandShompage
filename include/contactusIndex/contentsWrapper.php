@@ -3,12 +3,12 @@
     <div
         style="position: absolute; left: 0px; top:0px; width:500px; height:700px; background-color: #444; float: left; overflow: hidden;border-top-left-radius: 15px; border-bottom-left-radius: 15px;">
         <img src="./images/resource/contactusIndex/contactusLeftImage.jpg" alt="contactusBackground"
-            style="width:500px; height:700px;">
+            style="width:500px; height:700px; opacity:0.7;">
     </div>
     <div
         style="position: absolute; right: 0px; top:0px; width:700px; height:700px; overflow: hidden;border-top-right-radius: 15px; border-bottom-right-radius: 15px; z-index:1; opacity:0.7">
         <img src="./images/resource/contactusIndex/contactusLeftImage2.jpg" alt="contactusBackground"
-            style="width:700px; height:700px;">
+            style="width:700px; height:700px; opacity:0.7">
     </div>
     <div
         style="position: absolute; right:35px; width:570px; height:630px; padding: 0 30px;background-color: #fff; box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.7) ;float: right;border-radius: 15px; z-index:2">
@@ -50,7 +50,7 @@
             </div>
 
             <div style="width:120px;height:25px;float:left;">
-                <input type="text" name="email" placeholder="2846"
+                <input type="text" name="email" placeholder="1234"
                     style="width:100%;height:100%;font-size:14px;text-align:center;">
             </div>
             <div style="width: 30px; color: #666; font-size:16px; float:left;">
@@ -58,7 +58,7 @@
             </div>
 
             <div style="width:120px;height:25px;float:left;">
-                <input type="text" name="email" placeholder="2327"
+                <input type="text" name="email" placeholder="5678"
                     style="width:100%;height:100%;font-size:14px;text-align:center;">
             </div>
         </div>
