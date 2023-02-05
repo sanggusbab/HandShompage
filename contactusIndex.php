@@ -10,6 +10,7 @@
 
     <link rel="stylesheet" href="./css/cssReset.css">
     <link rel="stylesheet" href="./css/sideBar.css">
+    <link rel="stylesheet" href="./css/grayFilter.css">
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/sideBarFooter.css">
@@ -19,10 +20,10 @@
 </head>
 
 <body>
-    <div class="background zindex02">
+    <div class="background zindex01">
         <div class="grayFilter"></div>
     </div>
-    <div class="relative">
+    <div class="relative zindex02">
         <div class="contentsContainer">
             <div id="contentsWrapper">
                 <?php
