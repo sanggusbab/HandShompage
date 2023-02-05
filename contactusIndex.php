@@ -30,7 +30,7 @@
     <div class="background zindex02">
         <div class="grayFilter"></div>
     </div>
-    <div class="background zindex03 relative">
+    <div class="zindex03 relative">
         <div class="contentsContainer">
             <div id="contentsWrapper ">
                 <?php

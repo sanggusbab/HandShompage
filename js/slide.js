@@ -134,23 +134,6 @@ slide.addEventListener("mouseup", (e) => {
     }
 });
 
-// 모바일 터치 이벤트 (스와이프)
-slide.addEventListener("touchstart", (e) => {
-    startPoint = e.touches[0].pageX; // 터치가 시작되는 위치 저장
-});
-slide.addEventListener("touchend", (e) => {
-    endPoint = e.changedTouches[0].pageX; // 터치가 끝나는 위치 저장
-    if (startPoint < endPoint) {
-        // 오른쪽으로 스와이프 된 경우
-
-        prevMove();
-    } else if (startPoint > endPoint) {
-        // 왼쪽으로 스와이프 된 경우
-
-        nextMove();
-    }
-});
-
 // 기본적으로 슬라이드 루프 시작하기
 let loopInterval = setInterval(() => {
     nextMove();
