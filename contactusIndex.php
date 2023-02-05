@@ -21,8 +21,7 @@
 
 <body>
     <div class="background zindex01">
-                    <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground"
-                width="100%" height="100%">
+        <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground">
     </div>
     <div class="background zindex02">
         <div class="grayFilter"></div>
