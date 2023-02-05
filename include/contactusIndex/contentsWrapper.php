@@ -18,16 +18,16 @@
             </p>
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
-            <p style="color: #666; font-size:14px; margin-bottom:6px;">
+            <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 이름(First Name)
             </p>
-            <input type="text" name="firstName" placeholder="이름을 입력해주세요." style="width:100px;height:20px;font-size:14px;">
+            <input type="text" name="firstName" placeholder="이름을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
         </div>
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:10px;">
             <p style="color: #666; font-size:14px; margin-bottom:6px;">
                 &nbsp 성(Last Name)
             </p>
-            <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:100px;height:20px;font-size:14px;">
+            <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:25px;font-size:14px;">
         </div>
         <div class="rows" style="width: 80%; margin:20px 10% 10px; text-align:left;">
             <p style="color: #666;">
