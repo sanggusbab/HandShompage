@@ -3,14 +3,14 @@
 }
 .InnerBorder{
     padding: 5%;
-    margin: 0 5%;
+    margin: 5%;
     width: calc(80% - 4px);
     height: auto;
-    border-color: rgba(139, 28, 33, 1);
+    border-color: rgba(139, 28, 33, 0.7);
     border-radius: 10px;
-    border: 2px;
+    border-width: 2px;
     border-style: solid;
-    box-shadow: rgba(30, 30, 30, 0.6);
+    box-shadow: rgba(30, 30, 30, 0.4);
 }
 
 .ContentsTitle p {
