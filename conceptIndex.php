@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/sideBarFooter.css">
     <link rel="stylesheet" href="./cssIndexes/contentsContainer.css">
-
+    <link rel="stylesheet" href="./cssIndexes/conceptIndex/conceptWrapper.css">
     <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
 </head>
 

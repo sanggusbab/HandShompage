@@ -1,0 +1,30 @@
+.ContentsTitle {
+    text-align: center;
+}
+
+.ContentsTitle p {
+    font-size: 18px;
+    color: #444;
+    font-weight: bold;
+}
+
+.ContentsMessage {
+    text-align: center;
+}
+
+.ContentsMessage p {
+    font-size: 14px;
+    color: #444;
+}
+
+.ContentsImageWrappingBox {
+    text-align: center;
+    overflow: hidden;
+}
+
+.ContentsImageWrappingBox img {
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: auto;
+}

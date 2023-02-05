@@ -4,13 +4,13 @@
     <br>
 </P>
 <div class="rows" >
-    <div style="text-align: center;">
+    <div class="ContentsTitle">
         <p><b>프로젝트 | 대회</b></p> <br>
     </div>
-    <div style="text-align: center; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" style="display: block; margin:auto; height: 300px; width:auto;">
+    <div class="ContentsImageWrappingBox">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
     </div>
-    <div style="text-align: center;">
+    <div class="ContentsMessage">
         <p>
             <br>
             <br>
@@ -24,13 +24,13 @@
 </div>
 
 <div class="rows" >
-    <div style="text-align: center;">
+    <div class="ContentsTitle">
         <p><b>세미나 | 스터디</b></p> <br>
     </div>
-    <div style="text-align: center; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" style="display: block; margin:auto; height: 300px; width:auto;">
+    <div class="ContentsImageWrappingBox">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
     </div>
-    <div style="text-align: center;">
+    <div class="ContentsMessage">
         <p>
             <br>
             <br>
@@ -44,13 +44,13 @@
 </div>
 
 <div class="rows">
-    <div style="text-align: center;">
+    <div class="ContentsTitle">
         <p><b>홈페이지</b></p> <br>
     </div>
-    <div style="text-align: center; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" style="display: block; margin:auto; height: 300px; width:auto;">
+    <div class="ContentsImageWrappingBox">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
     </div>
-    <div style="text-align: center;">
+    <div class="ContentsMessage">
         <p>
             <br>
             <br>
@@ -64,13 +64,13 @@
 </div >
 
 <div class="rows">
-    <div style="text-align: center;">
+    <div class="ContentsTitle">
         <p><b>선후배의 연결성</b></p> <br>
     </div>
-    <div style="text-align: center; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" style="display: block; margin:auto; height: 300px; width:auto;">
+    <div class="ContentsImageWrappingBox">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample">
     </div>
-    <div style="text-align: center;">
+    <div class="ContentsMessage">
         <p>
             <br>
             <br>
