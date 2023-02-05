@@ -45,14 +45,14 @@
                 <input type="text" name="email" placeholder="010"
                     style="display: block; width:120px;height:26px;font-size:14px;text-align:center;float:left;">
                 <div
-                    style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
+                    style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center; margin:auto 0;">
                     -
                 </div>
 
                 <input type="text" name="email" placeholder="1234"
                     style="display: block; width:120px;height:26px;font-size:14px;text-align:center;float:left;">
                 <div
-                    style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center;">
+                    style="display: block; width: 30px; height:auto; line-height: auto; color: #666; font-size:16px; float:left; text-align: center; margin:auto 0;">
                     -
                 </div>
 
