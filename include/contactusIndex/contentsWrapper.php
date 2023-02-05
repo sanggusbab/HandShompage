@@ -12,11 +12,23 @@
     </div>
     <div
         style="position: absolute; right:35px; width:630px; height:630px; background-color: #fff; box-shadow: 0 0 20px rgba(255, 255, 255, 0.9) ;float: right;border-radius: 15px; z-index:2">
-        <div class="rows">이름(Name)</div>
+        <div class="rows" style="width: 80%; margin:20px 10% 10px;">
+            <p>
+                이름(Name)
+            </p>
+        </div>
         <div class="rows">이름을 입력해주세요.</div>
-        <div class="rows">이메일(Email)</div>
+        <div class="rows" style="width: 80%; margin:20px 10% 10px;">
+            <p>
+                이메일(Email)
+            </p>
+        </div>
         <div class="rows">이메일을 입력해주세요.</div>
-        <div class="rows">내용(Message)</div>
+        <div class="rows" style="width: 80%; margin:20px 10% 10px;">
+            <p>
+                내용(Message)
+            </p>
+        </div>
         <div class="rows">내용을 입력해주세요.</div>
     </div>
 </div>
