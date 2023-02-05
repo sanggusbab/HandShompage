@@ -48,7 +48,7 @@
         <p><b>홈페이지</b></p> <br>
     </div>
     <div style="text-align: center; max-width: 80%; height: 300px; overflow: hidden;">
-        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample"  style="display: block; margin:auto;">
+        <img src="images/etc/handshistorytimelinesample.png" alt="handshistorytimelinesample" class="handshistorytimelinesample"  style="display: block; margin: 0 auto;">
     </div>
     <div style="text-align: center;">
         <p>
