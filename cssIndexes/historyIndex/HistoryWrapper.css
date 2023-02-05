@@ -53,8 +53,8 @@
     .HistoryWrapper {
         float: left;
         width: 21%;
-        height: 300px;
         padding: 2%;
+        height: 300px;
     }
 
     .HistoryWrapper img {
