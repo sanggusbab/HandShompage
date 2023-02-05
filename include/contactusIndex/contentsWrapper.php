@@ -3,11 +3,11 @@
         <img src="./images/resource/contactusIndex/contactusBackground.jpg" alt="contactusBackground" style="width:500px; height:700px;">
     </div>
     <div style="width:430px; height:630px; background-color: #444; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) ;float: right;border-radius: 15px;">
-        <div class="rows">hello</div>
-        <div class="rows">hello</div>
-        <div class="rows">hello</div>
-        <div class="rows">hello</div>
-        <div class="rows">hello</div>
-        <div class="rows">hello</div>
+        <div class="rows">이름(Name)</div>
+        <div class="rows">이름을 입력해주세요.</div>
+        <div class="rows">이메일(Email)</div>
+        <div class="rows">이메일을 입력해주세요.</div>
+        <div class="rows">내용(Message)</div>
+        <div class="rows">내용을 입력해주세요.</div>
     </div>
 </div>
