@@ -27,7 +27,7 @@
         <div class="rows" style="width: 50%; text-align:left; float: left; margin-bottom:20px;">
             <p style="color: #666; font-size:12px; margin-bottom:6px;">
                 &nbsp 성(Last Name)
-            </p>fab fa-airbnb
+            </p>
             <input type="text" name="lastName" placeholder="성을 입력해주세요." style="width:200px;height:26px;font-size:14px;">
         </div>
         <div class="rows" style="width: 100%; text-align:left; float: left; margin-bottom:20px;">
