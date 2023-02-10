@@ -1,4 +1,5 @@
 <div class="relative">
+    <script type="text/javascript" src="./js/sideBarmenuiconToggle.js"></script>
     <li role="toggle" class="heightChangingBox">
         <a href="#" class="boxTag01">
             <span class="hoverlight">

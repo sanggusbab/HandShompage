@@ -15,8 +15,6 @@
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/sideBarFooter.css">
-    <script src="./js/sideBarmenuiconToggle.js"></script>
-    <script type="text/javascript" src="./js/sideBarmenuiconToggle.js"></script>
     <?php
     include_once $_SERVER['DOCUMENT_ROOT'] . '/common/fontawesomeCommonImport.php';
     ?>

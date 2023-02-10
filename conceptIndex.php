@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="./cssIndexes/contentsContainer.css">
     <link rel="stylesheet" href="./cssIndexes/conceptIndex/conceptWrapper.css">
     <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
-    <script type="text/javascript" src="./js/sideBarmenuiconToggle.js"></script>
     <?php
     include_once $_SERVER['DOCUMENT_ROOT'] . '/common/fontawesomeCommonImport.php';
     ?>
