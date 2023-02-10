@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/sideBarFooter.css">
+    <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
     <?php
     include_once $_SERVER['DOCUMENT_ROOT'] . '/common/fontawesomeCommonImport.php';
     ?>
