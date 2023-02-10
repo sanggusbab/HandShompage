@@ -20,7 +20,7 @@
         <div class="contentsContainer">
             <div id="contentsWrapper">
                 <?php
-                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/signUpMainIndex/contentsWrapper.php';
+                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/withdrawalIndex/contentsWrapper.php';
                 ?>
             </div>
             <?php

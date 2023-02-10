@@ -16,8 +16,7 @@
 </div>
 <input type="checkbox" id="buttonLogoCheckbox" checked="checked">
 <label for="buttonLogoCheckbox">
-    <p></p>
-    <span>Hide & Show</span>
+    <p>Hide & Show</p>
 </label>
 <div class="mainCenterLogo">
     <a href="./index.php">

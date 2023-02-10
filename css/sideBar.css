@@ -2,7 +2,7 @@ div[class="sidebar"] {
     width: 280px;
     height: 100%;
     background: rgba(0, 0, 0, 0.6);
-    position: absolute;
+    position: fixed;
     top: 0;
     left: -260px;
     transition: all .50s;
@@ -48,7 +48,7 @@ input[id="menuicon"]+label span:nth-child(3) {
 }
 
 input[id="menuicon"]+label+label {
-    position: absolute;
+    position: fixed;
     width: 20px;
     height: 40px;
     left: 20px;
@@ -100,7 +100,7 @@ input[id="menuicon"]:checked+label span:nth-child(3) {
 }
 
 input[id="menuicon"]:checked+label+label {
-    position: absolute;
+    position: fixed;
     width: 20px;
     height: 40px;
     left: 280px;

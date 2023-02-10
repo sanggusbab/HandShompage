@@ -98,19 +98,18 @@ input[id="buttonLogoCheckbox"]+label {
     border: none;
     transition: 1s;
     height: 25px;
-    position: absolute;
+    position: fixed;
     float: right;
     width: 120px;
-}
-
-input[id="buttonLogoCheckbox"]+label span {
-    color: white;
-    font-size: 12px;
-    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+    display: table;
 }
 
 input[id="buttonLogoCheckbox"]+label p {
-    height: 8px;
+    color: white;
+    font-size: 12px;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+    vertical-align: middle;
+    display: table-cell;
 }
 
 input[id="buttonLogoCheckbox"]+label:hover {
@@ -133,11 +132,13 @@ input[id="buttonLogoCheckbox"]:checked+label {
 .mainCenterLogo {
     transition: all 1s;
 }
+
 @media screen and (min-width:0) and (max-width:500px) {
     .helloProfileText {
         display: none;
     }
 }
+
 @media screen and (min-width:0) and (max-width:720px) {
     input[id="buttonLogoCheckbox"]+label {
         top: calc(15% + 50px);
