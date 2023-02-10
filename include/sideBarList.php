@@ -84,4 +84,3 @@
         </div>
     </li>
 </div>
-<script type="text/javascript" src="./js/sideBarmenuiconToggle.js"></script>

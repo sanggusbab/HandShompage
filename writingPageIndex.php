@@ -23,7 +23,7 @@
                     <li><a href="https://ckeditor.com/docs/ckeditor5/" target="_blank" rel="noopener noreferrer">Documentation</a></li>
                     <li><a href="https://ckeditor.com/" target="_blank" rel="noopener noreferrer">Website</a></li>
                 </ul>
-            </nav>
+            </nav>~
         </div>
     </header>
     <main>
