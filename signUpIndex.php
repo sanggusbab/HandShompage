@@ -26,6 +26,9 @@
             include_once $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php';
             ?>
         </div>
+        <?php
+        include_once $_SERVER['DOCUMENT_ROOT'] . '/include/headerRegister.php';
+        ?>
     </div>
     <script type="text/javascript" src="./js/contentsWrappertoggle.js"></script>
 </body>

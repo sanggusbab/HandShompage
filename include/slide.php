@@ -3,16 +3,19 @@
         <img src="./images/slideshow/header.jpg" alt="First Slide">
     </div>
     <div class="slide_item item2">
-        <img src="./images/etc/header_bak.jpg" alt="Second Slide">
+        <img src="./images/slideshow/header_bak.jpg" alt="Second Slide">
     </div>
     <div class="slide_item item3">
-        <img src="./images/etc/1st.svg" alt="Third Slide">
+        <img src="./images/slideshow/background01.jpg" alt="Third Slide">
     </div>
     <div class="slide_item item4">
-        <img src="./images/etc/2nd.svg" alt="Fourth Slide">
+        <img src="./images/slideshow/background02.jpg" alt="Fourth Slide">
     </div>
     <div class="slide_item item5">
-        <img src="./images/etc/3rd.svg" alt="Fifth Slide">
+        <img src="./images/slideshow/background03.jpg" alt="Fifth Slide">
+    </div>
+    <div class="slide_item item6">
+        <img src="./images/slideshow/background04.jpg" alt="Sixth Slide">
     </div>
 
     <div class="slide_prev_button slide_button">

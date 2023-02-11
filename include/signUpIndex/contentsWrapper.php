@@ -1,4 +1,4 @@
-<div style="width:430px; height:auto; background-color: rgb(245,245,245,1); color:black; margin:auto;text-align:left; padding:25px 25px 10px; border-radius:20px; border-width:2px; border-color:#ddd; border-style:solid;">
+<div style="width:430px; height:auto; background-color: rgba(250,250,250,1); color:black; margin:auto;text-align:left; padding:25px 25px 20px; border-radius:20px; border-width:2px; border-color:rgba(235,235,235,1); border-style:solid;">
     <div style="clear:both; padding-bottom: 20px;">
 
         <input type=" checkbox" id="checkAll" name="checkAll" style="display:none;">
@@ -109,13 +109,13 @@
         일반회원으로의 승인은 동문을 대상으로만 가능하며 운영진의 <br>
         회원인증 이후에 부가적인 서비스 이용이 가능합니다. <br>
     </div>
-    <div style="text-align:center; clear:both; width:auto; height:60px;">
-        <div class=" signUpBeforeMainButton" style="float:left; width:210px; height:50px; background-color:#777; color:black; border-radius: 5px;">
-            <a href="#" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:50px;">취 소</a>
+    <div style="text-align:center; clear:both; width:auto; height:40px;">
+        <div class=" signUpBeforeMainButton" style="float:left; width:210px; height:40px; background-color:#777; color:black; border-radius: 5px;">
+            <a href="#" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:40px;">취 소</a>
         </div>
 
-        <div class="signUpBeforeMainButton" style="float:right; width:210px; height:50px; background-color:rgba(139, 28, 33, 1); color:black; border-radius: 5px;">
-            <a href="#" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:50px;">확 인</a>
+        <div class="signUpBeforeMainButton" style="float:right; width:210px; height:40px; background-color:rgba(139, 28, 33, 1); color:black; border-radius: 5px;">
+            <a href="#" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:40px;">확 인</a>
         </div>
     </div>
 </div>

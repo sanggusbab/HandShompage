@@ -4,7 +4,7 @@ div[class="sidebar"] {
     background: rgba(0, 0, 0, 0.6);
     position: fixed;
     top: 0;
-    left: -260px;
+    left: -270px;
     transition: all .50s;
     z-index: 4;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
@@ -51,7 +51,7 @@ input[id="menuicon"]+label+label {
     position: fixed;
     width: 20px;
     height: 40px;
-    left: 20px;
+    left: 10px;
     top: 50%;
     transition: .50s;
     cursor: pointer;
