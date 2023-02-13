@@ -5,7 +5,7 @@
             &nbsp &nbsp | &nbsp &nbsp
             <a href='./privacyPolicyIndex.php' target='_blank'>개인정보처리방침</a>
             &nbsp &nbsp | &nbsp &nbsp
-            <a href='./handsPageIndex.php' target='_blank'>Community</a>
+            <a href='./handsHomepageMainIndex.php' target='_blank'>Community</a>
         </nav>
         <div class="footerInfo">
             <span>

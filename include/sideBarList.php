@@ -72,7 +72,7 @@
                     <a href="./announcementIndex.php">- ANNOUNCEMENT</a>
                 </li>
                 <li class="hoverlight">
-                    <a href="http://www.naver.com">- HANDS PAGE</a>
+                    <a href="./handsHomepageMainIndex.php">- HANDS PAGE</a>
                 </li>
                 <li class="hoverlight">
                     <a href="./contactusIndex.php">- CONTACT US</a>

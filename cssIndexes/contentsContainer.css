@@ -4,7 +4,8 @@
 
 .contentsContainer {
     position: absolute;
-    padding: 150px 0 120px;
+    padding-top: 150px;
+    padding-bottom: 120px;
     width: 100%;
     min-height: calc(100% - 270px);
     overflow: auto;

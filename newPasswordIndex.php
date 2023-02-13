@@ -19,7 +19,7 @@
         <div class="contentsContainer">
             <div id="contentsWrapper">
                 <?php
-                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/findIdIndex/contentsWrapper.php';
+                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/newPasswordIndex/contentsWrapper.php';
                 ?>
             </div>
             <?php

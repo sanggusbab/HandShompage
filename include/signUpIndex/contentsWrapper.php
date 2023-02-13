@@ -111,11 +111,11 @@
     </div>
     <div style="text-align:center; clear:both; width:auto; height:40px;">
         <div class=" signUpBeforeMainButton" style="float:left; width:210px; height:40px; background-color:#777; color:black; border-radius: 5px;">
-            <a href="#" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:40px;">취 소</a>
+            <a href="./index.php" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:40px;">취소</a>
         </div>
 
         <div class="signUpBeforeMainButton" style="float:right; width:210px; height:40px; background-color:rgba(139, 28, 33, 1); color:black; border-radius: 5px;">
-            <a href="#" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:40px;">확 인</a>
+            <a href="./signUpMainIndex.php" id="signUpBeforeMainCancelButton" role="button" style="font-size:18px; color:white; line-height:40px;">확인</a>
         </div>
     </div>
 </div>
