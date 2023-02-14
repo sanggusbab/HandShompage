@@ -8,6 +8,7 @@
 
     <title>HandS Korea University Community</title>
 
+    <link rel="icon" type="image/png" href="./images/logos/topLogo.png">
     <link rel="stylesheet" href="./css/cssReset.css">
     <link rel="stylesheet" href="./css/footer.css">
     <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
@@ -25,9 +26,16 @@
             <?php
             include_once $_SERVER['DOCUMENT_ROOT'] . '/include/handsHomepageMainSlider.php';
             ?>
-            <?php
-            include_once $_SERVER['DOCUMENT_ROOT'] . '/include/handsHomepageContentsWrapper.php';
-            ?>
+            <div style="position: relative; width: 100%; min-height:calc(100% - 550px); text-align:center; float: left; clear: both; padding-bottom:120px; overflow:auto">
+                <div style="width:1200px; height: auto; background-color: red; margin:auto;">
+                    <?php
+                    include_once $_SERVER['DOCUMENT_ROOT'] . '/include/handsHompageMainIndex/contentsWrapper.php';
+                    ?>
+                </div>
+                <?php
+                include_once $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php';
+                ?>
+            </div>
         </div>
         <div style="top:82px; left:0; position:absolute; width:100%; height:40px;">
             <?php

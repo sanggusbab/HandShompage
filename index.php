@@ -8,6 +8,7 @@
 
     <title>HandS Korea University</title>
 
+    <link rel="icon" type="image/png" href="./images/logos/topLogo.png">
     <link rel="stylesheet" href="./css/cssReset.css">
     <link rel="stylesheet" href="./css/sideBar.css">
     <link rel="stylesheet" href="./css/slide.css">
